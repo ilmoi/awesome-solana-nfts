@@ -28,17 +28,13 @@ If you see something missing - please submit a PR 🙏
     - [Metaplex](https://github.com/metaplex-foundation/metaplex/tree/master/rust/metaplex) 
       ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social)
       ([docs](https://docs.metaplex.com/architecture/deep_dive/metaplex)) - the only program aware of the other 3, brings everything together
-
 - [Metaplex Store](https://github.com/metaplex-foundation/metaplex/tree/master/js) 
   ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social) 
   ([docs](https://docs.metaplex.com/create-store/introduction)) - self-serve front-end for Metaplex
-
 - [Holaplex](https://www.holaplex.com/) - managed storefront for Metaplex, setup in 5 minutes
-
 - [Metaplex Candy Machine](https://github.com/metaplex-foundation/metaplex/tree/master/rust/nft-candy-machine)
   ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social)
   ([docs](https://docs.metaplex.com/create-candy/introduction)) - simple program (to use, not to build!) that issues a fixed number of NFTs at a fixed price, first come first serve. If Metaplex itself has too many knobs for you to think about, consider the Candy Machine instead.
-
 - [Fair Launch](https://github.com/metaplex-foundation/metaplex/tree/master/rust/fair-launch) 
   ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social)
   ([docs](https://hackmd.io/FxCiD20ETZeMbfA8on9WMg?view#Fair-Launch-Protocol)) ([intro video](https://www.youtube.com/watch?v=Ucfl_vbdYQI)) - a way to do "fair" launches in 3 phases: 1)users bid, 2)users adjust their bids, 3)a lottery determines winners who get to mint the NFTs.
@@ -78,7 +74,6 @@ If you see something missing - please submit a PR 🙏
 - [Discord Bot](https://github.com/milktoastlab/SolanaNFTBot)
 
 ## 🙏 Community-built Tools
-
 ### for Metaplex
 - [Metaboss](https://github.com/samuelvanderwaal/metaboss) 
   ![](https://img.shields.io/github/stars/samuelvanderwaal/metaboss.svg?style=social) - rust CLI that acts as a "swiss army knife" for Metaplex (decode metadata, mint new NFTs, update metadata, and more).
