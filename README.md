@@ -131,6 +131,7 @@ If you see something missing - please submit a PR 🙏
   ![](https://img.shields.io/github/stars/kevinrodriguez-io/candy-maker.svg?style=social) - ts cli for generative art.
 - [TIEXO](https://github.com/TiexoHQ/toolbox) 
   ![](https://img.shields.io/github/stars/TiexoHQ/toolbox.svg?style=social) - generative NFT art toolbox from the creators of Moonlet.
+- [NFT Maker](https://github.com/hempworks/nft-maker-js) - NodeJS package to generate NFT images and JSON compatible with Metaplex's Candy Machine.
 
 ## ⚙️ RPC Providers
 - [QuickNode](https://quicknode.com/)
