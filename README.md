@@ -65,6 +65,7 @@ If you see something missing - please submit a PR 🙏
 - [Solanafloor](https://solanafloor.com/) - floor insights for NFTs on Solana.
 - [Solanalysis](https://solanalysis.com/) - track market cap and trading activity for Solana-based NFTs. 
 - [How Rare Is](https://howrare.is/) - rarity tools for NFTs on solana.
+- [Moonrank](https://moonrank.com/) - absolute statistical rarity for solana NFTs.
 
 ## 🛡️ NFT Verification / Security
 - [Solguard](https://www.solguard.io/) - enter the NFT mint to find out if it's part of a real collection or fake.
