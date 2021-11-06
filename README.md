@@ -74,13 +74,17 @@ If you see something missing - please submit a PR 🙏
 - [Discord Bot](https://github.com/milktoastlab/SolanaNFTBot)
 
 ## 🙏 Community-built Tools
-### for Metaplex
+### for Metaplex (CLIs)
 - [Metaboss](https://github.com/samuelvanderwaal/metaboss) 
   ![](https://img.shields.io/github/stars/samuelvanderwaal/metaboss.svg?style=social) - rust CLI that acts as a "swiss army knife" for Metaplex (decode metadata, mint new NFTs, update metadata, and more).
-- [Metaplex Python API](https://github.com/metaplex-foundation/python-api) 
+- [Metaplex Rust CLI](https://github.com/CalebEverett/metaplex-cli)
+  ![](https://img.shields.io/github/stars/CalebEverett/metaplex-cli.svg?style=social) - another rust CLI for metaplex, similar ot Metaboss.
+- [Metaplex Python CLI](https://github.com/metaplex-foundation/python-api) 
   ![](https://img.shields.io/github/stars/metaplex-foundation/python-api.svg?style=social) - python bindings for Metaplex.
-- [Metaplex Rust CLI](https://github.com/CalebEverett/metaplex-cli) 
-  ![](https://img.shields.io/github/stars/CalebEverett/metaplex-cli.svg?style=social) - another rust CLI for metaplex, similar ot Metaboss. 
+- [Metaplex JS CLI](https://github.com/metaplex/js)
+  ![](https://img.shields.io/github/stars/metaplex/js.svg?style=social) - js bindings for Metaplex. 
+
+### for Metaplex (other)
 - [MetaplexMetadata-js](https://github.com/vicyyn/MetaplexMetadata-js) 
   ![](https://img.shields.io/github/stars/vicyyn/MetaplexMetadata-js.svg?style=social) - scrape metadata for the provided mint.
 - [Solana mint List](https://github.com/statikdev/sol-mint-list) 
