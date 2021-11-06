@@ -132,7 +132,7 @@ If you see something missing - please submit a PR 🙏
 - [TIEXO](https://github.com/TiexoHQ/toolbox) 
   ![](https://img.shields.io/github/stars/TiexoHQ/toolbox.svg?style=social) - generative NFT art toolbox from the creators of Moonlet.
 - [NFT Maker](https://github.com/hempworks/nft-maker-js) 
-  ![](https://img.shields.io/github/stars/hempworks/nft-maker-js.svg?) - NodeJS package to generate NFT images and JSON compatible with Metaplex's Candy Machine.
+  ![](https://img.shields.io/github/stars/hempworks/nft-maker-js.svg?style=social) - NodeJS package to generate NFT images and JSON compatible with Metaplex's Candy Machine.
 
 ## ⚙️ RPC Providers
 - [QuickNode](https://quicknode.com/)
