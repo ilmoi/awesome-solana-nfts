@@ -83,9 +83,11 @@ If you see something missing - please submit a PR 🙏
 - [Metaplex Python CLI](https://github.com/metaplex-foundation/python-api) 
   ![](https://img.shields.io/github/stars/metaplex-foundation/python-api.svg?style=social) - python bindings for Metaplex.
 - [Metaplex JS CLI](https://github.com/metaplex/js)
-  ![](https://img.shields.io/github/stars/metaplex/js.svg?style=social) - js bindings for Metaplex. 
+  ![](https://img.shields.io/github/stars/metaplex/js.svg?style=social) - js bindings for Metaplex.
 
 ### for Metaplex (other)
+- [NFT Armory](http://nftarmory.me/) ([Github Code](https://github.com/ilmoi/nft-armory))
+  ![](https://img.shields.io/github/stars/ilmoi/nft-armory.svg?style=social) - UI tool to view / mint / update Metaplex NFTs, aimed at developers/artists for quick and efficient experimentation. 
 - [MetaplexMetadata-js](https://github.com/vicyyn/MetaplexMetadata-js) 
   ![](https://img.shields.io/github/stars/vicyyn/MetaplexMetadata-js.svg?style=social) - scrape metadata for the provided mint.
 - [Solana mint List](https://github.com/statikdev/sol-mint-list) 
