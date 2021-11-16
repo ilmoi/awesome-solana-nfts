@@ -52,6 +52,7 @@ If you see something missing - please submit a PR 🙏
 - [Metaplex Token Entangler](https://github.com/metaplex-foundation/metaplex/tree/master/rust/token-entangler)
   ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social) - an escrow service that enables 2 parties to swap their NFTs.
 - [Cofre](https://cofre.so/) - online tool for p2p NFT swaps.
+- [YAWWW](https://trade.yawww.io/app/trade) - another p2p escrow tool by a member of the MonkeDAO.
 
 ## 💸 NFT Marketplaces
 - [Solanart](https://solanart.io/)
