@@ -66,6 +66,7 @@ If you see something missing - please submit a PR 🙏
 - [Solanafloor](https://solanafloor.com/) - floor insights for NFTs on Solana.
 - [Solanalysis](https://solanalysis.com/) - track market cap and trading activity for Solana-based NFTs.
 - [NFT FloorPrice](https://nftfloorprice.vercel.app/) - another app to track floor prices (shows by Marketplace).  
+- [Solana Seer](https://solseer.app/) - see floor prices for each NFT in your wallet (includes those currently selling on marketplaces).
 
 ### Rarity
 - [How Rare Is](https://howrare.is/) - rarity tools for NFTs on solana.
