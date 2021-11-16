@@ -77,8 +77,12 @@ If you see something missing - please submit a PR 🙏
 - [Solguard](https://www.solguard.io/) - enter the NFT mint to find out if it's part of a real collection or fake.
 
 ## 🤖 NFT Bots
-- [MonkeDAO Twitter Bot](https://github.com/MonkeDAO/observer)
-- [Discord Bot](https://github.com/milktoastlab/SolanaNFTBot)
+- [MonkeDAO Twitter Bot](https://github.com/MonkeDAO/observer) 
+  ![](https://img.shields.io/github/stars/MonkeDAO/observer.svg?style=social) - observes marketplace sales and tweets them.
+- [Discord Bot](https://github.com/milktoastlab/SolanaNFTBot) 
+  ![](https://img.shields.io/github/stars/milktoastlab/SolanaNFTBot.svg?style=social) - tracks sales and posts them to discord.
+- [Sales Tracker Bot](https://github.com/flutternft/solana-nft-sales-tracker) 
+  ![](https://img.shields.io/github/stars/flutternft/solana-nft-sales-tracker.svg?style=social) - tracks marketplace sales by observing payments flowing back to creators. Marketplace agnostic.
 
 ## 🙏 Community-built Tools
 ### for Metaplex (CLIs)
