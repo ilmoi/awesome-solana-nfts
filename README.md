@@ -62,8 +62,12 @@ If you see something missing - please submit a PR 🙏
 - [FTX NFT Marketplace](https://ftx.com/en/nfts)
 
 ## 📊 NFT Data
+### General
 - [Solanafloor](https://solanafloor.com/) - floor insights for NFTs on Solana.
-- [Solanalysis](https://solanalysis.com/) - track market cap and trading activity for Solana-based NFTs. 
+- [Solanalysis](https://solanalysis.com/) - track market cap and trading activity for Solana-based NFTs.
+- [NFT FloorPrice](https://nftfloorprice.vercel.app/) - another app to track floor prices (shows by Marketplace).  
+
+### Rarity
 - [How Rare Is](https://howrare.is/) - rarity tools for NFTs on solana.
 - [Moonrank](https://moonrank.app/) - absolute statistical rarity for solana NFTs.
 
@@ -116,7 +120,7 @@ If you see something missing - please submit a PR 🙏
 - [Arweave Image Uploader](https://github.com/thuglabs/arweave-image-uploader) ![](https://img.shields.io/github/stars/thuglabs/arweave-image-uploader.svg?style=social)
 - [Sol NFT Tools](https://sol-nft.tools/) - has an uploder section.
 
-### generic
+### Generic
 - [Solana Tools](https://www.solana-tools.com/) - find PDAs, ATAs, and read NFT/token metadata from a mint address.
 - [Sol NFT Tools](https://sol-nft.tools/) - get mints created by a creator, get metadata from a mint, get holders of a bunch of mints, upload files to arweave.
 
