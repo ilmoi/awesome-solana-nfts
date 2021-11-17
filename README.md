@@ -107,8 +107,10 @@ If you see something missing - please submit a PR 🙏
   ![](https://img.shields.io/github/stars/metaplex/js.svg?style=social) - js bindings for Metaplex.
 
 ### for Metaplex (other)
-- [NFT Armory](http://nftarmory.me/) ([Github Code](https://github.com/ilmoi/nft-armory))
-  ![](https://img.shields.io/github/stars/ilmoi/nft-armory.svg?style=social) - UI tool to view / mint / update Metaplex NFTs, aimed at developers/artists for quick and efficient experimentation. 
+- [NFT Armory](http://nftarmory.me/) ([github code](https://github.com/ilmoi/nft-armory))
+  ![](https://img.shields.io/github/stars/ilmoi/nft-armory.svg?style=social) - UI tool to view / mint / update Metaplex NFTs, aimed at developers/artists for quick and efficient experimentation.
+- [Sonar NFT Creator](https://nft-creator.sonar.watch/#/) ([github code](https://github.com/sonar-watch/nft-creator-ui)) 
+  ![](https://img.shields.io/github/stars/sonar-watch/nft-creator-ui.svg?style=social) - upload a file, name it, add a description and mint your NFT. Super simple tool for experimenting!
 - [MetaplexMetadata-js](https://github.com/vicyyn/MetaplexMetadata-js) 
   ![](https://img.shields.io/github/stars/vicyyn/MetaplexMetadata-js.svg?style=social) - scrape metadata for the provided mint.
 - [Solana mint List](https://github.com/statikdev/sol-mint-list) 
@@ -120,7 +122,6 @@ If you see something missing - please submit a PR 🙏
 - [Metaplex Launch Cost Calculator](https://feecalc.live/) - enter your collection size to calculate the total fees you will incur to launch.
 - [Metaplex Store Installer](https://github.com/blackranger07/Metaplex-Store-Installer) 
   ![](https://img.shields.io/github/stars/blackranger07/Metaplex-Store-Installer.svg?style=social) - community script to install metaplex store on a linux box.
-- [Sonar NFT Creator](https://nft-creator.sonar.watch/#/) - upload a file, name it, add a description and mint your NFT. Super simple tool for experimenting!
 
 ### for Candy Machine
 - [Candy Machine Mint](https://github.com/exiled-apes/candy-machine-mint) 
