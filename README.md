@@ -117,6 +117,8 @@ If you see something missing - please submit a PR 🙏
   ![](https://img.shields.io/github/stars/kevinfaveri/solana-candy-factory.svg?style=social) - fork, customize, and deploy your own candy machine mint app to a custom domain, ultra fast.
 - [MintUI](https://github.com/InnerMindDAO/MintUI) 
   ![](https://img.shields.io/github/stars/InnerMindDAO/MintUI.svg?style=social) - extensible UI for creating Metaplex Candy Machines.
+- [Willy Wonka](https://github.com/crispheaney/willy-wonka)
+  ![](https://img.shields.io/github/stars/crispheaney/willy-wonka.svg?style=social) - Mint candy machine NFTs from your CLI. Use your preferred rpc provider. Avoid rage quitting because the candy machine GUI fails.
 - [CSV-to-JSON for Candy Machine](https://github.com/thuglabs/csv-to-json-for-candy-machine) 
   ![](https://img.shields.io/github/stars/thuglabs/csv-to-json-for-candy-machine.svg?style=social) - quickly turn a CSV file into a bunch of JSONs that the Candy Machine expects.
 - [List all Candy Machines in existence](https://gist.github.com/levicook/aadb079bf9daa1eeda3ff603c73b1b79)
