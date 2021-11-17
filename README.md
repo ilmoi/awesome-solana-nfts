@@ -62,7 +62,7 @@ If you see something missing - please submit a PR 🙏
 - [Alpha Art](https://alpha.art/)
 - [FTX NFT Marketplace](https://ftx.com/en/nfts)
 
-##💧 Upcoming NFT Drops
+## 💧 Upcoming NFT Drops
 - [How Rare Drops](https://howrare.is/drops) - in my experience this has the widest coverage. No pics tho:(
 - [Solanalysis Upcoming Drops](https://solanalysis.com/upcoming)
 - [Non Fungi Solana drops](https://www.non-fungi.com/solana-nft-drops/)
