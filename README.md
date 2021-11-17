@@ -69,7 +69,6 @@ If you see something missing - please submit a PR 🙏
 - [NFT Evening](https://nftevening.com/calendar/) - multi-chain drop info, includes Solana
 - [Upcoming NFT](https://upcomingnft.art/) - multi-chain drop info, includes Solana
 
-
 ## 📊 NFT Data
 ### General
 - [Solanafloor](https://solanafloor.com/) - floor insights for NFTs on Solana.
@@ -86,13 +85,15 @@ If you see something missing - please submit a PR 🙏
 ## 🛡️ NFT Verification / Security
 - [Solguard](https://www.solguard.io/) - enter the NFT mint to find out if it's part of a real collection or fake.
 
-## 🤖 NFT Bots
+## 🤖 NFT Marketplace Bots
 - [MonkeDAO Twitter Bot](https://github.com/MonkeDAO/observer) 
   ![](https://img.shields.io/github/stars/MonkeDAO/observer.svg?style=social) - observes marketplace sales and tweets them.
 - [Discord Bot](https://github.com/milktoastlab/SolanaNFTBot) 
   ![](https://img.shields.io/github/stars/milktoastlab/SolanaNFTBot.svg?style=social) - tracks sales and posts them to discord.
 - [Sales Tracker Bot](https://github.com/flutternft/solana-nft-sales-tracker) 
   ![](https://img.shields.io/github/stars/flutternft/solana-nft-sales-tracker.svg?style=social) - tracks marketplace sales by observing payments flowing back to creators. Marketplace agnostic.
+- [SMB Marketplace History](https://github.com/boxwooddev/smb-marketplace-history) 
+  ![](https://img.shields.io/github/stars/boxwooddev/smb-marketplace-history.svg?style=social) - sales bot for SMBs in particular, built by the legend @statikdev.
 
 ## 🙏 Community-built Tools
 ### for Metaplex (CLIs)
@@ -140,11 +141,7 @@ If you see something missing - please submit a PR 🙏
 - [Arweave Image Uploader](https://github.com/thuglabs/arweave-image-uploader) ![](https://img.shields.io/github/stars/thuglabs/arweave-image-uploader.svg?style=social)
 - [Sol NFT Tools](https://sol-nft.tools/) - has an uploder section.
 
-### for SMB
-- [SMB Marketplace History](https://github.com/boxwooddev/smb-marketplace-history) 
-  ![](https://img.shields.io/github/stars/boxwooddev/smb-marketplace-history.svg?style=social) - Tools to get information for SMB NFTs on Solana.
-
-### Generic
+### Multi-function
 - [Solana Tools](https://www.solana-tools.com/) - find PDAs, ATAs, and read NFT/token metadata from a mint address.
 - [Sol NFT Tools](https://sol-nft.tools/) - get mints created by a creator, get metadata from a mint, get holders of a bunch of mints, upload files to arweave.
 
