@@ -129,6 +129,10 @@ If you see something missing - please submit a PR 🙏
 - [Arweave Image Uploader](https://github.com/thuglabs/arweave-image-uploader) ![](https://img.shields.io/github/stars/thuglabs/arweave-image-uploader.svg?style=social)
 - [Sol NFT Tools](https://sol-nft.tools/) - has an uploder section.
 
+### for SMB
+- [SMB Marketplace History](https://github.com/boxwooddev/smb-marketplace-history) 
+  ![](https://img.shields.io/github/stars/boxwooddev/smb-marketplace-history.svg?style=social) - Tools to get information for SMB NFTs on Solana.
+
 ### Generic
 - [Solana Tools](https://www.solana-tools.com/) - find PDAs, ATAs, and read NFT/token metadata from a mint address.
 - [Sol NFT Tools](https://sol-nft.tools/) - get mints created by a creator, get metadata from a mint, get holders of a bunch of mints, upload files to arweave.
