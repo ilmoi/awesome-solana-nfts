@@ -119,6 +119,7 @@ If you see something missing - please submit a PR 🙏
 - [Metaplex Launch Cost Calculator](https://feecalc.live/) - enter your collection size to calculate the total fees you will incur to launch.
 - [Metaplex Store Installer](https://github.com/blackranger07/Metaplex-Store-Installer) 
   ![](https://img.shields.io/github/stars/blackranger07/Metaplex-Store-Installer.svg?style=social) - community script to install metaplex store on a linux box.
+- [Sonar NFT Creator](https://nft-creator.sonar.watch/#/) - upload a file, name it, add a description and mint your NFT. Super simple tool for experimenting!
 
 ### for Candy Machine
 - [Candy Machine Mint](https://github.com/exiled-apes/candy-machine-mint) 
