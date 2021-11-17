@@ -40,7 +40,7 @@ If you see something missing - please submit a PR 🙏
   ([docs](https://hackmd.io/FxCiD20ETZeMbfA8on9WMg?view#Fair-Launch-Protocol)) ([intro video](https://www.youtube.com/watch?v=Ucfl_vbdYQI)) - a way to do "fair" launches in 3 phases: 1)users bid, 2)users adjust their bids, 3)a lottery determines winners who get to mint the NFTs.
 - A number of "managed" launch services exist: [Nova Launch](https://novalaunch.art/), [CrayonCreed](https://crayoncreed.com/). We've not tried and are not promoting either:)
 
-## 🪂 NFT Airdrops
+## 🪂 Airdrops to NFT holders
 - [Air Support](https://github.com/theskeletoncrew/air-support)
   ![](https://img.shields.io/github/stars/theskeletoncrew/air-support.svg?style=social) - set of scripts to airdrop NFTs to your following in 5 easy steps. 
 - [Ghetto SolAir](https://github.com/h4rkl/Ghetto-SolAir)
@@ -62,16 +62,26 @@ If you see something missing - please submit a PR 🙏
 - [Alpha Art](https://alpha.art/)
 - [FTX NFT Marketplace](https://ftx.com/en/nfts)
 
+##💧 Upcoming NFT Drops
+- [How Rare Drops](https://howrare.is/drops) - in my experience this has the widest coverage. No pics tho:(
+- [Solanalysis Upcoming Drops](https://solanalysis.com/upcoming)
+- [Non Fungi Solana drops](https://www.non-fungi.com/solana-nft-drops/)
+- [NFT Evening](https://nftevening.com/calendar/) - multi-chain drop info, includes Solana
+- [Upcoming NFT](https://upcomingnft.art/) - multi-chain drop info, includes Solana
+
+
 ## 📊 NFT Data
 ### General
 - [Solanafloor](https://solanafloor.com/) - floor insights for NFTs on Solana.
 - [Solanalysis](https://solanalysis.com/) - track market cap and trading activity for Solana-based NFTs.
 - [NFT FloorPrice](https://nftfloorprice.vercel.app/) - another app to track floor prices (shows by Marketplace).  
 - [Solana Seer](https://solseer.app/) - see floor prices for each NFT in your wallet (includes those currently selling on marketplaces).
+- [CryptoSlam](https://cryptoslam.io/) - useful multi-chain analytics, has all the top collections on Solana 
 
 ### Rarity
 - [How Rare Is](https://howrare.is/) - rarity tools for NFTs on solana.
 - [Moonrank](https://moonrank.app/) - absolute statistical rarity for solana NFTs.
+- [SolTracker](https://soltracker.io/rarity) - has a smaller selection of projects, but works.
 
 ## 🛡️ NFT Verification / Security
 - [Solguard](https://www.solguard.io/) - enter the NFT mint to find out if it's part of a real collection or fake.
