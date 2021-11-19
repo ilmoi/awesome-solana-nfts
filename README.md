@@ -140,7 +140,7 @@ If you see something missing - please submit a PR 🙏
 - [Permaweb Dropper](https://github.com/textury/permaweb-dropper) ![](https://img.shields.io/github/stars/textury/permaweb-dropper.svg?style=social)
 - [Arweave NFT Uploader](https://github.com/0xEnrico/arweave-nft-uploader) ![](https://img.shields.io/github/stars/0xEnrico/arweave-nft-uploader.svg?style=social)
 - [Arweave Image Uploader](https://github.com/thuglabs/arweave-image-uploader) ![](https://img.shields.io/github/stars/thuglabs/arweave-image-uploader.svg?style=social)
-- [Hardbor](https://github.com/kevinrodriguez-io/harbor) ![](https://img.shields.io/github/stars/kevinrodriguez-io/harbor.svg?style=social)
+- [Harbor](https://github.com/kevinrodriguez-io/harbor) ![](https://img.shields.io/github/stars/kevinrodriguez-io/harbor.svg?style=social)
 - [Sol NFT Tools](https://sol-nft.tools/) - has an uploder section.
 
 ### Multi-function
