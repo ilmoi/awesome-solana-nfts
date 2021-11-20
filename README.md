@@ -76,6 +76,7 @@ If you see something missing - please submit a PR 🙏
 - [NFT FloorPrice](https://nftfloorprice.vercel.app/) - another app to track floor prices (shows by Marketplace).  
 - [Solana Seer](https://solseer.app/) - see floor prices for each NFT in your wallet (includes those currently selling on marketplaces).
 - [CryptoSlam](https://cryptoslam.io/) - useful multi-chain analytics, has all the top collections on Solana 
+- [Nasus](https://nasus.io/) - portfolio management focused NFT viewer
 
 ### Rarity
 - [How Rare Is](https://howrare.is/) - rarity tools for NFTs on solana.
