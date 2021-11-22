@@ -56,8 +56,8 @@ If you see something missing - please submit a PR 🙏
 
 ## 💸 NFT Marketplaces
 - [MagicEden](https://magiceden.io/)
-- [Solanart](https://solanart.io/)
-- [Digitaleyez](https://digitaleyes.market/)
+- [SolanArt](https://solanart.io/)
+- [DigitalEyez](https://digitaleyes.market/)
 - [Alpha Art](https://alpha.art/)
 - [Exchange.Art](https://exchange.art/)
 - [Solsea](https://solsea.io/)
