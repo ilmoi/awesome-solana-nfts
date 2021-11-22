@@ -55,6 +55,7 @@ If you see something missing - please submit a PR 🙏
 - [YAWWW](https://trade.yawww.io/app/trade) - another p2p escrow tool by a member of the MonkeDAO.
 
 ## 💸 NFT Marketplaces
+- [Exchange.Art](https://exchange.art/)
 - [Solanart](https://solanart.io/)
 - [Digitaleyez](https://digitaleyes.market/)
 - [MagicEden](https://magiceden.io/)
