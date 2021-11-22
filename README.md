@@ -55,12 +55,13 @@ If you see something missing - please submit a PR 🙏
 - [YAWWW](https://trade.yawww.io/app/trade) - another p2p escrow tool by a member of the MonkeDAO.
 
 ## 💸 NFT Marketplaces
-- [Solanart](https://solanart.io/)
-- [Digitaleyez](https://digitaleyes.market/)
 - [MagicEden](https://magiceden.io/)
-- [Solsea](https://solsea.io/)
+- [SolanArt](https://solanart.io/)
+- [DigitalEyes](https://digitaleyes.market/)
 - [Alpha Art](https://alpha.art/)
-- [FTX NFT Marketplace](https://ftx.com/en/nfts)
+- [Exchange.Art](https://exchange.art/)
+- [Solsea](https://solsea.io/)
+- [FTX NFT Marketplace](https://ftx.com/en/nfts) (centralized)
   
 ## 🖼 NFT Galleries
 - [NftEyez](https://nfteyez.global/) - online NFT gallery.
