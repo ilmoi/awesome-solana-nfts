@@ -61,6 +61,9 @@ If you see something missing - please submit a PR 🙏
 - [Solsea](https://solsea.io/)
 - [Alpha Art](https://alpha.art/)
 - [FTX NFT Marketplace](https://ftx.com/en/nfts)
+  
+## 🖼 NFT Galleries
+- [NftEyez](https://nfteyez.global/) - online NFT gallery.
 
 ## 💧 Upcoming NFT Drops
 - [How Rare Drops](https://howrare.is/drops) - in my experience this has the widest coverage. No pics tho:(
@@ -147,6 +150,11 @@ If you see something missing - please submit a PR 🙏
 ### Multi-function
 - [Solana Tools](https://www.solana-tools.com/) - find PDAs, ATAs, and read NFT/token metadata from a mint address.
 - [Sol NFT Tools](https://sol-nft.tools/) - get mints created by a creator, get metadata from a mint, get holders of a bunch of mints, upload files to arweave.
+
+### Dapp Boilerplates
+- [Create Solana Dapp](https://github.com/thuglabs/create-dapp-solana-nextjs) - Scaffolding for a Solana dapp using TS, Next.JS, Tailwinds CSS, and Daisy UI.
+- [Dapp Scaffold](https://github.com/solana-labs/dapp-scaffold) - Scaffolding for a dapp using TS, React & Antd.
+- [sol-rayz](https://github.com/NftEyez/sol-rayz) - set of tools to quickly build NFT Galleries
 
 ## 🦾 Generative Art Tools
 - [NFT Image generator](https://github.com/benyaminahmed/nft-image-generator) 
