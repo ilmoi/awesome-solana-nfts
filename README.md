@@ -61,6 +61,9 @@ If you see something missing - please submit a PR 🙏
 - [Solsea](https://solsea.io/)
 - [Alpha Art](https://alpha.art/)
 - [FTX NFT Marketplace](https://ftx.com/en/nfts)
+  
+## 🖼 NFT Galleries
+- [NftEyez](https://nfteyez.global/) - online NFT gallery.
 
 ## 💧 Upcoming NFT Drops
 - [How Rare Drops](https://howrare.is/drops) - in my experience this has the widest coverage. No pics tho:(
@@ -95,9 +98,6 @@ If you see something missing - please submit a PR 🙏
   ![](https://img.shields.io/github/stars/flutternft/solana-nft-sales-tracker.svg?style=social) - tracks marketplace sales by observing payments flowing back to creators. Marketplace agnostic.
 - [SMB Marketplace History](https://github.com/boxwooddev/smb-marketplace-history) 
   ![](https://img.shields.io/github/stars/boxwooddev/smb-marketplace-history.svg?style=social) - sales bot for SMBs in particular, built by the legend @statikdev.
-  
-## 🖼 Gallery
-- [NftEyez](https://nfteyez.global/) - online NFT gallery.
 
 ## 🙏 Community-built Tools
 ### for Metaplex (CLIs)
