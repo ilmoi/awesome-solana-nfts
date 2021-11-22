@@ -95,6 +95,9 @@ If you see something missing - please submit a PR 🙏
   ![](https://img.shields.io/github/stars/flutternft/solana-nft-sales-tracker.svg?style=social) - tracks marketplace sales by observing payments flowing back to creators. Marketplace agnostic.
 - [SMB Marketplace History](https://github.com/boxwooddev/smb-marketplace-history) 
   ![](https://img.shields.io/github/stars/boxwooddev/smb-marketplace-history.svg?style=social) - sales bot for SMBs in particular, built by the legend @statikdev.
+  
+## 🖼 Gallery
+- [NftEyez](https://nfteyez.global/) - online NFT gallery.
 
 ## 🙏 Community-built Tools
 ### for Metaplex (CLIs)
@@ -147,6 +150,11 @@ If you see something missing - please submit a PR 🙏
 ### Multi-function
 - [Solana Tools](https://www.solana-tools.com/) - find PDAs, ATAs, and read NFT/token metadata from a mint address.
 - [Sol NFT Tools](https://sol-nft.tools/) - get mints created by a creator, get metadata from a mint, get holders of a bunch of mints, upload files to arweave.
+
+### Dapp Boilerplates
+- [Create Solana Dapp](https://github.com/thuglabs/create-dapp-solana-nextjs) - Scaffolding for a Solana dapp using TS, Next.JS, Tailwinds CSS, and Daisy UI.
+- [Dapp Scaffold](https://github.com/solana-labs/dapp-scaffold) - Scaffolding for a dapp using TS, React & Antd.
+- [sol-rayz](https://github.com/NftEyez/sol-rayz) - set of tools to quickly build NFT Galleries
 
 ## 🦾 Generative Art Tools
 - [NFT Image generator](https://github.com/benyaminahmed/nft-image-generator) 
