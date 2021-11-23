@@ -81,6 +81,7 @@ If you see something missing - please submit a PR 🙏
 - [Solana Seer](https://solseer.app/) - see floor prices for each NFT in your wallet (includes those currently selling on marketplaces).
 - [CryptoSlam](https://cryptoslam.io/) - useful multi-chain analytics, has all the top collections on Solana 
 - [Nasus](https://nasus.io/) - portfolio management focused NFT viewer
+- [NFT🍌APE](https://nftape.me/) - 1-click tool to calculate your P&L / paperhands / diamondhands amounts
 
 ### Rarity
 - [How Rare Is](https://howrare.is/) - rarity tools for NFTs on solana.
