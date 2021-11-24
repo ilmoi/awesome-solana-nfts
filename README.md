@@ -67,11 +67,15 @@ If you see something missing - please submit a PR 🙏
 - [NftEyez](https://nfteyez.global/) - online NFT gallery.
 
 ## 💧 Upcoming NFT Drops
-- [How Rare Drops](https://howrare.is/drops) - in my experience this has the widest coverage. No pics tho:(
-- [Solanalysis Upcoming Drops](https://solanalysis.com/upcoming)
-- [Non Fungi Solana drops](https://www.non-fungi.com/solana-nft-drops/)
+- [How Rare Drops](https://howrare.is/drops) - SOL specific drops. In my experience this has the widest coverage. No pics tho:(
+- [Solanalysis Upcoming Drops](https://solanalysis.com/upcoming) - SOL specific drops.
+- [Next Drop](https://nextdrop.is/upcoming?chain=solana) - multi-chain drop info, includes Solana (filterable)
+- [Non Fungi](https://www.non-fungi.com/solana-nft-drops/) - multi-chain drop info, includes Solana (filterable)
+- [NFT Calendar](https://nftcalendar.io/b/solana/) - multi-chain drop info, includes Solana (filterable)
+- [Rarity Tools](https://rarity.tools/upcoming/) - multi-chain drop info, includes Solana
 - [NFT Evening](https://nftevening.com/calendar/) - multi-chain drop info, includes Solana
 - [Upcoming NFT](https://upcomingnft.art/) - multi-chain drop info, includes Solana
+- [CoinMarketCap](https://coinmarketcap.com/nft/upcoming/) - multi-chain drop info, includes Solana
 
 ## 📊 NFT Data
 ### General
