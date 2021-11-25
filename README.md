@@ -72,6 +72,7 @@ If you see something missing - please submit a PR 🙏
 - [Next Drop](https://nextdrop.is/upcoming?chain=solana) - multi-chain drop info, includes Solana (filterable)
 - [Non Fungi](https://www.non-fungi.com/solana-nft-drops/) - multi-chain drop info, includes Solana (filterable)
 - [NFT Calendar](https://nftcalendar.io/b/solana/) - multi-chain drop info, includes Solana (filterable)
+- [Ape O'Clock](https://www.apeoclock.com/all-sol-launches/) - multi-chain drop info, includes Solana (filterable)
 - [Rarity Tools](https://rarity.tools/upcoming/) - multi-chain drop info, includes Solana
 - [NFT Evening](https://nftevening.com/calendar/) - multi-chain drop info, includes Solana
 - [Upcoming NFT](https://upcomingnft.art/) - multi-chain drop info, includes Solana
