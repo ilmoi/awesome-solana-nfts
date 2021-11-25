@@ -40,7 +40,15 @@ If you see something missing - please submit a PR 🙏
   ([docs](https://hackmd.io/FxCiD20ETZeMbfA8on9WMg?view#Fair-Launch-Protocol)) ([intro video](https://www.youtube.com/watch?v=Ucfl_vbdYQI)) - a way to do "fair" launches in 3 phases: 1)users bid, 2)users adjust their bids, 3)a lottery determines winners who get to mint the NFTs.
 - A number of "managed" launch services exist: [Nova Launch](https://novalaunch.art/), [CrayonCreed](https://crayoncreed.com/). We've not tried and are not promoting either:)
 
+## 📝 Whitelisting
+- [Gumdrop](https://github.com/metaplex-foundation/metaplex/tree/master/rust/gumdrop)
+  ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social) 
+  ([docs](https://docs.metaplex.com/airdrops/create-gumdrop)) ([guide](https://hackmd.io/@MarkSackerberg/gumdrop)) - can be used to create a whitelisted candy machine sale.
+
 ## 🪂 Airdrops to NFT holders
+- [Gumdrop](https://github.com/metaplex-foundation/metaplex/tree/master/rust/gumdrop)
+  ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social) 
+  ([docs](https://docs.metaplex.com/airdrops/create-gumdrop)) ([guide](https://hackmd.io/@MarkSackerberg/gumdrop)) - can be used to airdrop NFTs & tokens to whitelisted accounts. Users can be notified via email, SMS, or discord. 
 - [Air Support](https://github.com/theskeletoncrew/air-support)
   ![](https://img.shields.io/github/stars/theskeletoncrew/air-support.svg?style=social) - set of scripts to airdrop NFTs to your following in 5 easy steps. 
 - [Ghetto SolAir](https://github.com/h4rkl/Ghetto-SolAir)
