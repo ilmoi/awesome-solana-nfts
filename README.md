@@ -110,7 +110,7 @@ If you see something missing - please submit a PR 🙏
 - [Token Vault](https://github.com/metaplex-foundation/metaplex/tree/master/rust/token-vault) 
       ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social)
       ([docs](https://docs.metaplex.com/architecture/deep_dive/token_vault)) - allows fractionalization of NFTs, although only has a naive buyout mechanism
-- [Fraction](https://www.fraktion.art/)
+- [Fraktion](https://www.fraktion.art/)
 - [Bridgesplit](https://www.bridgesplit.com/)
 - [MIMO](https://linktr.ee/millionmonke)
 
