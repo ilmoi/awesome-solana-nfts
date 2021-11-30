@@ -47,6 +47,9 @@ If you see something missing - please submit a PR 🙏
   ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social) 
   ([docs](https://docs.metaplex.com/airdrops/create-gumdrop)) ([guide](https://hackmd.io/@MarkSackerberg/gumdrop)) - can be used to create a whitelisted candy machine sale.
 
+## 🥩 Staking
+- [Serum's Staking Program](https://github.com/project-serum/stake) ![](https://img.shields.io/github/stars/project-serum/stake.svg?style=social)  - works for any tokens, fungible and not. There's a [UI for it](https://github.com/project-serum/stake-ui) too
+
 ## 🪂 Airdrops to NFT holders
 - [Gumdrop](https://github.com/metaplex-foundation/metaplex/tree/master/rust/gumdrop)
   ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social) 
@@ -76,7 +79,7 @@ If you see something missing - please submit a PR 🙏
 ## 🖼 NFT Galleries
 - [NftEyez](https://nfteyez.global/) - online NFT gallery.
 
-## 💧 Upcoming NFT Drops
+## 📅 Upcoming NFT Drops
 - [How Rare Drops](https://howrare.is/drops) - SOL specific drops. In my experience this has the widest coverage. No pics tho:(
 - [Solanalysis Upcoming Drops](https://solanalysis.com/upcoming) - SOL specific drops.
 - [Next Drop](https://nextdrop.is/upcoming?chain=solana) - multi-chain drop info, includes Solana (filterable)
@@ -102,6 +105,14 @@ If you see something missing - please submit a PR 🙏
 - [How Rare Is](https://howrare.is/) - rarity tools for NFTs on solana.
 - [Moonrank](https://moonrank.app/) - absolute statistical rarity for solana NFTs.
 - [SolTracker](https://soltracker.io/rarity) - has a smaller selection of projects, but works.
+
+## 💧 NFT Fractionalization / Liquidity
+- [Token Vault](https://github.com/metaplex-foundation/metaplex/tree/master/rust/token-vault) 
+      ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social)
+      ([docs](https://docs.metaplex.com/architecture/deep_dive/token_vault)) - allows fractionalization of NFTs, although only has a naive buyout mechanism
+- [Fraction](https://www.fraktion.art/)
+- [Bridgesplit](https://www.bridgesplit.com/)
+- [MIMO](https://linktr.ee/millionmonke)
 
 ## 🛡️ NFT Verification / Security
 - [Solguard](https://www.solguard.io/) - enter the NFT mint to find out if it's part of a real collection or fake.
