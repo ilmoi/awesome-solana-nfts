@@ -48,7 +48,8 @@ If you see something missing - please submit a PR 🙏
   ([docs](https://docs.metaplex.com/airdrops/create-gumdrop)) ([guide](https://hackmd.io/@MarkSackerberg/gumdrop)) - can be used to create a whitelisted candy machine sale.
 
 ## 🥩 Staking
-- [Serum's Staking Program](https://github.com/project-serum/stake) ![](https://img.shields.io/github/stars/project-serum/stake.svg?style=social)  - works for any tokens, fungible and not. There's a [UI for it](https://github.com/project-serum/stake-ui) too
+- [Serum's Staking Program](https://github.com/project-serum/stake) ![](https://img.shields.io/github/stars/project-serum/stake.svg?style=social) (and the [UI for it](https://github.com/project-serum/stake-ui)) - Serum's staking program (only supports one mint (one NFT) at a time). 
+- [Step Finance Rewards](https://github.com/step-finance/reward-pool/blob/main/programs/reward-pool/src/lib.rs) ![](https://img.shields.io/github/stars/step-finance/reward-pool.svg?style=social) - Step Finance staking program (only supports one mint (one NFT) at a time).
 
 ## 🪂 Airdrops to NFT holders
 - [Gumdrop](https://github.com/metaplex-foundation/metaplex/tree/master/rust/gumdrop)
