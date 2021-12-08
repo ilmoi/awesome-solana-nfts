@@ -49,8 +49,8 @@ If you see something missing - please submit a PR 🙏
   ([docs](https://docs.metaplex.com/airdrops/create-gumdrop)) ([guide](https://hackmd.io/@MarkSackerberg/gumdrop)) - can be used to create a whitelisted candy machine sale.
 
 ## 🥩 Staking
-- [Serum's Staking Program](https://github.com/project-serum/stake) ![](https://img.shields.io/github/stars/project-serum/stake.svg?style=social) (and the [UI for it](https://github.com/project-serum/stake-ui)) - Serum's staking program (only supports one mint (one NFT) at a time). 
 - [Step Finance Rewards](https://github.com/step-finance/reward-pool/blob/main/programs/reward-pool/src/lib.rs) ![](https://img.shields.io/github/stars/step-finance/reward-pool.svg?style=social) - Step Finance staking program (only supports one mint (one NFT) at a time).
+- [Serum's Staking Program](https://github.com/project-serum/stake) ![](https://img.shields.io/github/stars/project-serum/stake.svg?style=social) (and the [UI for it](https://github.com/project-serum/stake-ui)) - Serum's staking program (only supports one mint (one NFT) at a time). 
 
 ## 🪂 Airdrops to NFT holders
 - [Gumdrop](https://github.com/metaplex-foundation/metaplex/tree/master/rust/gumdrop)
@@ -96,13 +96,13 @@ If you see something missing - please submit a PR 🙏
 
 ## 📊 NFT Data
 ### General
+- [NFT🍌APE](https://nftape.me/)([github code](https://github.com/ilmoi/nftape.me) ![](https://img.shields.io/github/stars/ilmoi/nftape.me.svg?style=social)) - 1-click tool to calculate your P&L / paperhands / diamondhands amounts
 - [Solanafloor](https://solanafloor.com/) - floor insights for NFTs on Solana.
 - [Solanalysis](https://solanalysis.com/) - track market cap and trading activity for Solana-based NFTs.
 - [NFT FloorPrice](https://nftfloorprice.vercel.app/) - another app to track floor prices (shows by Marketplace).  
 - [Solana Seer](https://solseer.app/) - see floor prices for each NFT in your wallet (includes those currently selling on marketplaces).
 - [CryptoSlam](https://cryptoslam.io/) - useful multi-chain analytics, has all the top collections on Solana 
 - [Nasus](https://nasus.io/) - portfolio management focused NFT viewer
-- [NFT🍌APE](https://nftape.me/)([github](https://github.com/ilmoi/nftape.me) ![](https://img.shields.io/github/stars/ilmoi/nftape.me.svg?style=social)) - 1-click tool to calculate your P&L / paperhands / diamondhands amounts
 - [MoveMints by BridgeSplit](https://movemints.bridgesplit.com/) - tracks the latest Solana NFT drops and analyzes their community growth.
 
 ### Rarity
@@ -135,18 +135,19 @@ If you see something missing - please submit a PR 🙏
 ### for Metaplex (CLIs)
 - [Metaboss](https://github.com/samuelvanderwaal/metaboss) 
   ![](https://img.shields.io/github/stars/samuelvanderwaal/metaboss.svg?style=social) - rust CLI that acts as a "swiss army knife" for Metaplex (decode metadata, mint new NFTs, update metadata, and more).
-- [Metaplex Rust CLI](https://github.com/CalebEverett/metaplex-cli)
-  ![](https://img.shields.io/github/stars/CalebEverett/metaplex-cli.svg?style=social) - another rust CLI for metaplex, similar ot Metaboss.
-- [Metaplex Python CLI](https://github.com/metaplex-foundation/python-api) 
-  ![](https://img.shields.io/github/stars/metaplex-foundation/python-api.svg?style=social) - python bindings for Metaplex.
 - [Metaplex JS CLI](https://github.com/metaplex/js)
   ![](https://img.shields.io/github/stars/metaplex/js.svg?style=social) - js bindings for Metaplex.
+- [Metaplex Python CLI](https://github.com/metaplex-foundation/python-api) 
+  ![](https://img.shields.io/github/stars/metaplex-foundation/python-api.svg?style=social) - python bindings for Metaplex.
+- [Metaplex Rust CLI](https://github.com/CalebEverett/metaplex-cli)
+  ![](https://img.shields.io/github/stars/CalebEverett/metaplex-cli.svg?style=social) - another rust CLI for metaplex, similar ot Metaboss.
 
 ### for Metaplex (other)
-- [NFT Armory](http://nftarmory.me/) ([github code](https://github.com/ilmoi/nft-armory))
-  ![](https://img.shields.io/github/stars/ilmoi/nft-armory.svg?style=social) - UI tool to view / mint / update Metaplex NFTs, aimed at developers/artists for quick and efficient experimentation.
 - [Sonar NFT Creator](https://nft-creator.sonar.watch/#/) ([github code](https://github.com/sonar-watch/nft-creator-ui)) 
   ![](https://img.shields.io/github/stars/sonar-watch/nft-creator-ui.svg?style=social) - upload a file, name it, add a description and mint your NFT. Super simple tool for experimenting!
+- [Script to update Solana NFT Token Metadata](https://github.com/thuglabs/solana-nft-token-metadata-update) ![](https://img.shields.io/github/stars/thuglabs/solana-nft-token-metadata-update.svg?style=social)
+- [NFT Armory](http://nftarmory.me/) ([github code](https://github.com/ilmoi/nft-armory))
+  ![](https://img.shields.io/github/stars/ilmoi/nft-armory.svg?style=social) - UI tool to view / mint / update Metaplex NFTs, aimed at developers/artists for quick and efficient experimentation.
 - [MetaplexMetadata-js](https://github.com/vicyyn/MetaplexMetadata-js) 
   ![](https://img.shields.io/github/stars/vicyyn/MetaplexMetadata-js.svg?style=social) - scrape metadata for the provided mint.
 - [Solana mint List](https://github.com/statikdev/sol-mint-list) 
@@ -154,10 +155,9 @@ If you see something missing - please submit a PR 🙏
 - [Abstractica](https://tools.abstratica.art/) - provide mint wallet address > get addresses of current holders of a given collection.
 - [getHolderSnapshot](https://github.com/halaprix/getHolderSnapshot) 
   ![](https://img.shields.io/github/stars/halaprix/getHolderSnapshot.svg?style=social) - provide list of NFT mints > get holders for each.
-- [Script to update Solana NFT Token Metadata](https://github.com/thuglabs/solana-nft-token-metadata-update) ![](https://img.shields.io/github/stars/thuglabs/solana-nft-token-metadata-update.svg?style=social)
-- [Metaplex Launch Cost Calculator](https://feecalc.live/) - enter your collection size to calculate the total fees you will incur to launch.
 - [Metaplex Store Installer](https://github.com/blackranger07/Metaplex-Store-Installer) 
   ![](https://img.shields.io/github/stars/blackranger07/Metaplex-Store-Installer.svg?style=social) - community script to install metaplex store on a linux box.
+- [Metaplex Launch Cost Calculator](https://feecalc.live/) - enter your collection size to calculate the total fees you will incur to launch.
 
 ### for Candy Machine
 - [Candy Machine Mint](https://github.com/exiled-apes/candy-machine-mint) 
@@ -173,9 +173,9 @@ If you see something missing - please submit a PR 🙏
 - [List all Candy Machines in existence](https://gist.github.com/levicook/aadb079bf9daa1eeda3ff603c73b1b79)
 
 ### for Arweave
-- [Permaweb Dropper](https://github.com/textury/permaweb-dropper) ![](https://img.shields.io/github/stars/textury/permaweb-dropper.svg?style=social)
 - [Arweave NFT Uploader](https://github.com/0xEnrico/arweave-nft-uploader) ![](https://img.shields.io/github/stars/0xEnrico/arweave-nft-uploader.svg?style=social)
 - [Arweave Image Uploader](https://github.com/thuglabs/arweave-image-uploader) ![](https://img.shields.io/github/stars/thuglabs/arweave-image-uploader.svg?style=social)
+- [Permaweb Dropper](https://github.com/textury/permaweb-dropper) ![](https://img.shields.io/github/stars/textury/permaweb-dropper.svg?style=social)
 - [Harbor](https://github.com/kevinrodriguez-io/harbor) ![](https://img.shields.io/github/stars/kevinrodriguez-io/harbor.svg?style=social)
 - [Sol NFT Tools](https://sol-nft.tools/) - has an uploder section.
 
@@ -193,6 +193,8 @@ If you see something missing - please submit a PR 🙏
   ![](https://img.shields.io/github/stars/benyaminahmed/nft-image-generator.svg?style=social) - python code in jupyter notebooks for generative art.
 - [Treat Toolbox](https://github.com/theskeletoncrew/treat-toolbox) 
   ![](https://img.shields.io/github/stars/theskeletoncrew/treat-toolbox.svg?style=social) - drag and drop tool with a friendly UI to randomly combine layers into generative art.
+- [NFT Maker](https://github.com/hempworks/nft-maker-js) 
+  ![](https://img.shields.io/github/stars/hempworks/nft-maker-js.svg?style=social) - NodeJS package to generate NFT images and JSON compatible with Metaplex's Candy Machine.
 - [Solseum NFT generator](https://github.com/Solseum/solseum-nft-generator) 
   ![](https://img.shields.io/github/stars/Solseum/solseum-nft-generator.svg?style=social) - python cli for genrative art with sophisticated tooling/charts around the rarity system.
 - [Lifecycle NFT generator](https://github.com/lightcycleresearch/lightcycle-nft-generator) 
@@ -201,12 +203,10 @@ If you see something missing - please submit a PR 🙏
   ![](https://img.shields.io/github/stars/kevinrodriguez-io/candy-maker.svg?style=social) - ts cli for generative art.
 - [TIEXO](https://github.com/TiexoHQ/toolbox) 
   ![](https://img.shields.io/github/stars/TiexoHQ/toolbox.svg?style=social) - generative NFT art toolbox from the creators of Moonlet.
-- [NFT Maker](https://github.com/hempworks/nft-maker-js) 
-  ![](https://img.shields.io/github/stars/hempworks/nft-maker-js.svg?style=social) - NodeJS package to generate NFT images and JSON compatible with Metaplex's Candy Machine.
 
 ## ⚙️ RPC Providers
-- [QuickNode](https://quicknode.com/)
 - [GenesysGo](https://genesysgo.com/)
+- [QuickNode](https://quicknode.com/)
 - [RunNode](https://runnode.com/)
 - [Triton One | RPC Pool](https://triton.one/#/)
 - [Figment](https://figment.io/datahub/solana/)
