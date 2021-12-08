@@ -67,6 +67,7 @@ If you see something missing - please submit a PR 🙏
   ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social) - an escrow service that enables 2 parties to swap their NFTs.
 - [Cofre](https://cofre.so/) - online tool for p2p NFT swaps.
 - [YAWWW](https://trade.yawww.io/app/trade) - another p2p escrow tool by a member of the MonkeDAO.
+- [FoxySwap](https://famousfoxes.com/swap) - P2P NFT swap service by the Famous Fox Federation team.
 
 ## 💸 NFT Marketplaces
 - [MagicEden](https://magiceden.io/)
