@@ -6,6 +6,7 @@ A curated list of resources for builders / artists hacking NFTs on Solana.
 
 - ✅ Includes: open standards, protocols, OSS repos, community-built tools
 - ✋ Excludes: individual drops, future promises (without actual code / working product)
+- 🔀 Ordering: OSS before closed-source, ordered by github stars
 
 If you see something missing - please submit a PR 🙏
 
@@ -101,7 +102,8 @@ If you see something missing - please submit a PR 🙏
 - [Solana Seer](https://solseer.app/) - see floor prices for each NFT in your wallet (includes those currently selling on marketplaces).
 - [CryptoSlam](https://cryptoslam.io/) - useful multi-chain analytics, has all the top collections on Solana 
 - [Nasus](https://nasus.io/) - portfolio management focused NFT viewer
-- [NFT🍌APE](https://nftape.me/) - 1-click tool to calculate your P&L / paperhands / diamondhands amounts
+- [NFT🍌APE](https://nftape.me/)([github](https://github.com/ilmoi/nftape.me) ![](https://img.shields.io/github/stars/ilmoi/nftape.me.svg?style=social)) - 1-click tool to calculate your P&L / paperhands / diamondhands amounts
+- [MoveMints by BridgeSplit](https://movemints.bridgesplit.com/) - tracks the latest Solana NFT drops and analyzes their community growth.
 
 ### Rarity
 - [How Rare Is](https://howrare.is/) - rarity tools for NFTs on solana.
