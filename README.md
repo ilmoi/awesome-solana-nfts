@@ -49,8 +49,11 @@ If you see something missing - please submit a PR 🙏
   ([docs](https://docs.metaplex.com/airdrops/create-gumdrop)) ([guide](https://hackmd.io/@MarkSackerberg/gumdrop)) - can be used to create a whitelisted candy machine sale.
 
 ## 🥩 Staking
-- [Step Finance Rewards](https://github.com/step-finance/reward-pool/blob/main/programs/reward-pool/src/lib.rs) ![](https://img.shields.io/github/stars/step-finance/reward-pool.svg?style=social) - Step Finance staking program (only supports one mint (one NFT) at a time).
-- [Serum's Staking Program](https://github.com/project-serum/stake) ![](https://img.shields.io/github/stars/project-serum/stake.svg?style=social) (and the [UI for it](https://github.com/project-serum/stake-ui)) - Serum's staking program (only supports one mint (one NFT) at a time). 
+- Can deposit single NFT at a time:
+    - [Serum's Staking Program](https://github.com/project-serum/stake) ![](https://img.shields.io/github/stars/project-serum/stake.svg?style=social) (and the [UI for it](https://github.com/project-serum/stake-ui)) - Serum's staking program. It's the most complex out of the bunch, but most featured (eg supports time-locked rewards, aka vesting and doesn't comingle users' funds). Users need to actively "claim" the stake by periodically clicking a button.
+    - [Step Finance Rewards Pool](https://github.com/step-finance/reward-pool) ![](https://img.shields.io/github/stars/step-finance/reward-pool.svg?style=social) - Step Finance rewards program. "AMM-style", meaning users funds are pooled and rewards distributed proportionally. Supports paying out rewards in up to 2 separate token mints. 
+    - [Step Finance Staking Program](https://github.com/step-finance/step-staking) ![](https://img.shields.io/github/stars/step-finance/step-staking.svg?style=social) - Step Finance staking program. A simpler program compared to the one above, only pays out in one type of token. 
+- Currently none are known that support multiple NFTs at a time.  
 
 ## 🪂 Airdrops to NFT holders
 - [Gumdrop](https://github.com/metaplex-foundation/metaplex/tree/master/rust/gumdrop)
@@ -77,7 +80,7 @@ If you see something missing - please submit a PR 🙏
 - [Alpha Art](https://alpha.art/)
 - [Exchange.Art](https://exchange.art/)
 - [Solsea](https://solsea.io/)
-- [FTX NFT Marketplace](https://ftx.com/en/nfts) (centralized)
+- [FTX NFT Marketplace](https://ftx.com/en/nfts)
   
 ## 🖼 NFT Galleries
 - [NftEyez](https://nfteyez.global/) - online NFT gallery.
