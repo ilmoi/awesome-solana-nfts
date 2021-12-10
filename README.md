@@ -50,9 +50,9 @@ If you see something missing - please submit a PR 🙏
 
 ## 🥩 Staking
 - Can deposit single NFT at a time:
-    - [Serum's Staking Program](https://github.com/project-serum/stake) ![](https://img.shields.io/github/stars/project-serum/stake.svg?style=social) (and the [UI for it](https://github.com/project-serum/stake-ui)) - Serum's staking program. It's the most complex out of the bunch, but most featured (eg supports time-locked rewards, aka vesting and doesn't comingle users' funds). Users need to actively "claim" the stake by periodically clicking a button.
-    - [Step Finance Rewards Pool](https://github.com/step-finance/reward-pool) ![](https://img.shields.io/github/stars/step-finance/reward-pool.svg?style=social) - Step Finance rewards program. "AMM-style", meaning users funds are pooled and rewards distributed proportionally. Supports paying out rewards in up to 2 separate token mints. 
-    - [Step Finance Staking Program](https://github.com/step-finance/step-staking) ![](https://img.shields.io/github/stars/step-finance/step-staking.svg?style=social) - Step Finance staking program. A simpler program compared to the one above, only pays out in one type of token. 
+    - [Serum's Staking Program](https://github.com/project-serum/stake) ![](https://img.shields.io/github/stars/project-serum/stake.svg?style=social) (and the [UI for it](https://github.com/project-serum/stake-ui)) - Serum's staking program. Most complex out of the bunch, but most fully-featured (supports time-locked rewards, doesn't comingle users' funds). Users need to actively "claim" the stake by periodically clicking a button.
+    - [Step Finance Rewards Pool](https://github.com/step-finance/reward-pool) ![](https://img.shields.io/github/stars/step-finance/reward-pool.svg?style=social) - Step Finance rewards program. "AMM-style", meaning users' funds are pooled and rewards distributed proportionally. Supports rewards in up to 2 different mints. 
+    - [Step Finance Staking Program](https://github.com/step-finance/step-staking) ![](https://img.shields.io/github/stars/step-finance/step-staking.svg?style=social) - Step Finance staking program. A simpler program vs the one above, only pays out in one type of token. 
 - Currently none are known that support multiple NFTs at a time.  
 
 ## 🪂 Airdrops to NFT holders
