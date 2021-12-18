@@ -193,6 +193,8 @@ If you see something missing - please submit a PR 🙏
 - [sol-rayz](https://github.com/NftEyez/sol-rayz) - set of tools to quickly build NFT Galleries
 
 ## 🦾 Generative Art Tools
+- [Hashlips Art Engine](https://github.com/HashLips/hashlips_art_engine) 
+  ![](https://img.shields.io/github/stars/HashLips/hashlips_art_engine.svg?style=social) - JS gen art generator.
 - [NFT Image generator](https://github.com/benyaminahmed/nft-image-generator) 
   ![](https://img.shields.io/github/stars/benyaminahmed/nft-image-generator.svg?style=social) - python code in jupyter notebooks for generative art.
 - [Treat Toolbox](https://github.com/theskeletoncrew/treat-toolbox) 
