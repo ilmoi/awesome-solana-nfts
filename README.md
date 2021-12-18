@@ -120,6 +120,7 @@ If you see something missing - please submit a PR 🙏
 - [Fraktion](https://www.fraktion.art/)
 - [Bridgesplit](https://www.bridgesplit.com/)
 - [MIMO](https://linktr.ee/millionmonke)
+- [LIQNFT](https://liqnft.com)
 
 ## 🛡️ NFT Verification / Security
 - [Solguard](https://www.solguard.io/) - enter the NFT mint to find out if it's part of a real collection or fake.
