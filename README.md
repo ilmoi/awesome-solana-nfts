@@ -175,7 +175,6 @@ If you see something missing - please submit a PR 🙏
 ### for Candy Machine
 - [Candy Machine Mint](https://github.com/exiled-apes/candy-machine-mint) 
   ![](https://img.shields.io/github/stars/exiled-apes/candy-machine-mint.svg?style=social) - off the shelf front-ends for Candy Machine.
-- [Candy Machine V2 Responsive UI](https://github.com/Fulgurus/candy-machine-v2-responsive-ui) - Upgrade of Candy Machine Mint project with Candy Machine V2 integration and Responsive Design Prod-ready UI easy to customize.
 - [Solana Candy Factory](https://github.com/kevinfaveri/solana-candy-factory) 
   ![](https://img.shields.io/github/stars/kevinfaveri/solana-candy-factory.svg?style=social) - fork, customize, and deploy your own candy machine mint app to a custom domain, ultra fast.
 - [MintUI](https://github.com/InnerMindDAO/MintUI) 
@@ -184,6 +183,7 @@ If you see something missing - please submit a PR 🙏
   ![](https://img.shields.io/github/stars/crispheaney/willy-wonka.svg?style=social) - Mint candy machine NFTs from your CLI. Use your preferred rpc provider. Avoid rage quitting because the candy machine GUI fails.
 - [CSV-to-JSON for Candy Machine](https://github.com/thuglabs/csv-to-json-for-candy-machine) 
   ![](https://img.shields.io/github/stars/thuglabs/csv-to-json-for-candy-machine.svg?style=social) - quickly turn a CSV file into a bunch of JSONs that the Candy Machine expects.
+- [Candy Machine V2 Responsive UI](https://github.com/Fulgurus/candy-machine-v2-responsive-ui) ![](https://img.shields.io/github/stars/Fulgurus/candy-machine-v2-responsive-ui.svg?style=social) - Upgrade of Candy Machine Mint project with Candy Machine V2 integration and Responsive Design Prod-ready UI easy to customize.
 - [List all Candy Machines in existence](https://gist.github.com/levicook/aadb079bf9daa1eeda3ff603c73b1b79)
 
 ### for Arweave
