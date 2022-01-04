@@ -175,6 +175,7 @@ If you see something missing - please submit a PR 🙏
 ### for Candy Machine
 - [Candy Machine Mint](https://github.com/exiled-apes/candy-machine-mint) 
   ![](https://img.shields.io/github/stars/exiled-apes/candy-machine-mint.svg?style=social) - off the shelf front-ends for Candy Machine.
+- [Candy Machine V2 Responsive UI](https://github.com/Fulgurus/candy-machine-v2-responsive-ui) - Upgrade of Candy Machine Mint project with Candy Machine V2 integration and Responsive Design Prod-ready UI easy to customize.
 - [Solana Candy Factory](https://github.com/kevinfaveri/solana-candy-factory) 
   ![](https://img.shields.io/github/stars/kevinfaveri/solana-candy-factory.svg?style=social) - fork, customize, and deploy your own candy machine mint app to a custom domain, ultra fast.
 - [MintUI](https://github.com/InnerMindDAO/MintUI) 
