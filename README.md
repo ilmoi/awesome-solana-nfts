@@ -184,6 +184,7 @@ If you see something missing - please submit a PR 🙏
 - [CSV-to-JSON for Candy Machine](https://github.com/thuglabs/csv-to-json-for-candy-machine) 
   ![](https://img.shields.io/github/stars/thuglabs/csv-to-json-for-candy-machine.svg?style=social) - quickly turn a CSV file into a bunch of JSONs that the Candy Machine expects.
 - [Candy Machine V2 Responsive UI](https://github.com/Fulgurus/candy-machine-v2-responsive-ui) ![](https://img.shields.io/github/stars/Fulgurus/candy-machine-v2-responsive-ui.svg?style=social) - responsive, customizable prod-ready UI for Candy Machine V2.
+- [Next.js Tailwind CSS Candy Machine V2](https://github.com/updatesettings/nextjs-candy-machine-v2) ![](https://img.shields.io/github/stars/updatesettings/nextjs-candy-machine-v2?style=social) - Next.js, Whitelist signup to Notion, Tailwind CSS, NFT Collection Viewer, and more.
 - [List all Candy Machines in existence](https://gist.github.com/levicook/aadb079bf9daa1eeda3ff603c73b1b79)
 
 ### for Arweave
