@@ -47,8 +47,8 @@ If you see something missing - please submit a PR 🙏
 - [Token Vault](https://github.com/metaplex-foundation/metaplex/tree/master/rust/token-vault) 
       ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social)
       ([docs](https://docs.metaplex.com/architecture/deep_dive/token_vault)) - Metaplex vaults. Support fractionalization, although without built-in auctionn mechanic (you'd need to collect all the pieces manually).
-- [Gem Bank](https://github.com/gemworks/core) 
-      ![](https://img.shields.io/github/stars/gemworks/core.svg?style=social) ([docs](https://docs.gemworks.gg/)) - Gemworks vaults. Users deposit/withdraw, bank manager locks/unlocks. Can control what NFTs are / aren't allowed in using a whitelist of mints / creators. 
+- [Gem Bank](https://github.com/gemworks/gem-farm) 
+      ![](https://img.shields.io/github/stars/gemworks/gem-farm.svg?style=social) ([docs](https://docs.gemworks.gg/)) - Gemworks vaults. Users deposit/withdraw, bank manager locks/unlocks. Can control what NFTs are / aren't allowed in using a whitelist of mints / creators. 
 ## 📝 Whitelisting
 - [Gumdrop](https://github.com/metaplex-foundation/metaplex/tree/master/rust/gumdrop)
   ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social) 
@@ -56,8 +56,8 @@ If you see something missing - please submit a PR 🙏
 
 ## 🥩 Staking
 - Can deposit multiple token mints (actually useful for NFTs):
-    - [Gem Farm](https://github.com/gemworks/core) 
-          ![](https://img.shields.io/github/stars/gemworks/core.svg?style=social) ([docs](https://docs.gemworks.gg/)) - fully OSS staking program designed for NFT projects to offer yield to their communities. Choose between fixed and variable rate, configure params like min staking time & min cooldown and much more.
+    - [Gem Farm](https://github.com/gemworks/gem-farm) 
+          ![](https://img.shields.io/github/stars/gemworks/gem-farm.svg?style=social) ([docs](https://docs.gemworks.gg/)) - fully OSS staking program designed for NFT projects to offer yield to their communities. Choose between fixed and variable rate, configure params like min staking time & min cooldown and much more.
 - Can deposit only a single token mint at a time:
     - [Serum's Staking Program](https://github.com/project-serum/stake) ![](https://img.shields.io/github/stars/project-serum/stake.svg?style=social) (and the [UI for it](https://github.com/project-serum/stake-ui)) - Serum's staking program. Most complex out of the bunch, but most fully-featured (supports time-locked rewards, doesn't comingle users' funds). Users need to actively "claim" the stake by periodically clicking a button.
     - [Step Finance Rewards Pool](https://github.com/step-finance/reward-pool) ![](https://img.shields.io/github/stars/step-finance/reward-pool.svg?style=social) - Step Finance rewards program. "AMM-style", meaning users' funds are pooled and rewards distributed proportionally. Supports rewards in up to 2 different mints. 
