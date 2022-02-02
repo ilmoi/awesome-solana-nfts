@@ -11,9 +11,9 @@ A curated list of resources for builders / artists hacking NFTs on Solana.
 If you see something missing - please submit a PR 🙏
 
 ## 📜 NFT Open Standards
-- [Metaplex Token Metadata Standard](https://github.com/metaplex-foundation/metaplex/tree/master/rust/token-metadata)
+- [Metaplex Token Metadata Standard](https://github.com/metaplex-foundation/metaplex-program-library/tree/master/token-metadata)
   ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social) 
-  ([docs](https://docs.metaplex.com/nft-standard)) - defines NFT metadata (its structure, how it's stored on-chain / off-chain) and different types of NFTs (master editions, normal editions, one-offs, participation NFTs)
+  ([docs](https://docs.metaplex.com/token-metadata/specification#token-standards)) - defines NFT metadata (its structure, how it's stored on-chain / off-chain) and different types of NFTs (master editions, normal editions, one-offs, participation NFTs)
 - [Burnt Finance "Collections"](https://github.com/BurntFinance/Collections)
   ![](https://img.shields.io/github/stars/BurntFinance/Collections.svg?style=social) - a standard that proposes to start recording NFTs as part of "collections". A collection adds an NFT to an array stored in a PDA to verify it as original, and the NFT in turn signs the collection's PK to verify the addition is valid (otherwise any collection could claim the NFT is part of it).  
 
