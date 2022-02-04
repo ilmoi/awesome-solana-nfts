@@ -11,33 +11,33 @@ A curated list of resources for builders / artists hacking NFTs on Solana.
 If you see something missing - please submit a PR 🙏
 
 ## 📜 NFT Open Standards
-- [Metaplex Token Metadata Standard](https://github.com/metaplex-foundation/metaplex/tree/master/rust/token-metadata)
+- [Metaplex Token Metadata Standard](https://github.com/metaplex-foundation/metaplex-program-library/tree/master/token-metadata)
   ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social) 
-  ([docs](https://docs.metaplex.com/nft-standard)) - defines NFT metadata (its structure, how it's stored on-chain / off-chain) and different types of NFTs (master editions, normal editions, one-offs, participation NFTs)
+  ([docs](https://docs.metaplex.com/token-metadata/specification#token-standards)) - defines NFT metadata (its structure, how it's stored on-chain / off-chain) and different types of NFTs (master editions, normal editions, one-offs, participation NFTs)
 - [Burnt Finance "Collections"](https://github.com/BurntFinance/Collections)
   ![](https://img.shields.io/github/stars/BurntFinance/Collections.svg?style=social) - a standard that proposes to start recording NFTs as part of "collections". A collection adds an NFT to an array stored in a PDA to verify it as original, and the NFT in turn signs the collection's PK to verify the addition is valid (otherwise any collection could claim the NFT is part of it).  
 
 ## 🚀 NFT Issuance
 - Metaplex - a set of 4 progams that together enable NFT creators to mint and auction off their creations. Highly customizable (eg can set max mint, add attributes, decide what kind of edition you want to sell).
-    - [Token Metadata](https://github.com/metaplex-foundation/metaplex/tree/master/rust/token-metadata)
+    - [Token Metadata](https://github.com/metaplex-foundation/metaplex-program-library/tree/master/token-metadata)
       ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social) 
       ([docs](https://docs.metaplex.com/architecture/deep_dive/overview)) - described above
-    - [Token Vault](https://github.com/metaplex-foundation/metaplex/tree/master/rust/token-vault) 
+    - [Token Vault](https://github.com/metaplex-foundation/metaplex-program-library/tree/master/token-vault) 
       ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social)
       ([docs](https://docs.metaplex.com/architecture/deep_dive/token_vault)) - escrow & fractionalization of NFTs
-    - [Auction](https://github.com/metaplex-foundation/metaplex/tree/master/rust/auction/program) 
+    - [Auction](https://github.com/metaplex-foundation/metaplex-program-library/tree/master/auction/program) 
       ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social)
       ([docs](https://docs.metaplex.com/architecture/deep_dive/auction)) - different types of auctions for NFTs
-    - [Metaplex](https://github.com/metaplex-foundation/metaplex/tree/master/rust/metaplex) 
+    - [Metaplex](https://github.com/metaplex-foundation/metaplex-program-library/tree/master/metaplex) 
       ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social)
       ([docs](https://docs.metaplex.com/architecture/deep_dive/metaplex)) - the only program aware of the other 3, brings everything together
 - [Metaplex Store](https://github.com/metaplex-foundation/metaplex/tree/master/js) 
   ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social) 
-  ([docs](https://docs.metaplex.com/create-store/introduction)) - self-serve front-end for Metaplex
+  ([docs](https://docs.metaplex.com/storefront/introduction)) - self-serve front-end for Metaplex
 - [Holaplex](https://www.holaplex.com/) - managed storefront for Metaplex, setup in 5 minutes
-- [Metaplex Candy Machine](https://github.com/metaplex-foundation/metaplex/tree/master/rust/nft-candy-machine)
+- [Metaplex Candy Machine](https://github.com/metaplex-foundation/metaplex-program-library/tree/master/candy-machine/program)
   ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social)
-  ([docs](https://docs.metaplex.com/create-candy/introduction)) - simple program (to use, not to build!) that issues a fixed number of NFTs at a fixed price, first come first serve. If Metaplex itself has too many knobs for you to think about, consider the Candy Machine instead.
+  ([docs](https://docs.metaplex.com/candy-machine-v2/introduction)) - simple program (to use, not to build!) that issues a fixed number of NFTs at a fixed price, first come first serve. If Metaplex itself has too many knobs for you to think about, consider the Candy Machine instead.
 - [Fair Launch](https://github.com/metaplex-foundation/metaplex/tree/master/rust/fair-launch) 
   ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social)
   ([docs](https://hackmd.io/FxCiD20ETZeMbfA8on9WMg?view#Fair-Launch-Protocol)) ([intro video](https://www.youtube.com/watch?v=Ucfl_vbdYQI)) - a way to do "fair" launches in 3 phases: 1)users bid, 2)users adjust their bids, 3)a lottery determines winners who get to mint the NFTs.
