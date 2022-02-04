@@ -116,6 +116,7 @@ If you see something missing - please submit a PR 🙏
 - [Nasus](https://nasus.io/) - portfolio management focused NFT viewer
 - [MoveMints by BridgeSplit](https://movemints.bridgesplit.com/) - tracks the latest Solana NFT drops and analyzes their community growth.
 - [Solens](https://solens.io/) - All-in-one analytics platform to follow Solana NFT trends, smart money activity and historical data (by marketplace). 
+- [SolsWatch](https://sols.watch/) - Data Insights and charts on Solana NFT collections from the secondary marketplaces. Discover new collections as soon as they are added to the marketplaces.
 
 ### Rarity
 - [How Rare Is](https://howrare.is/) - rarity tools for NFTs on solana.
