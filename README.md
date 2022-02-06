@@ -53,6 +53,8 @@ If you see something missing - please submit a PR 🙏
 - [Gumdrop](https://github.com/metaplex-foundation/metaplex/tree/master/rust/gumdrop)
   ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social) 
   ([docs](https://docs.metaplex.com/airdrops/create-gumdrop)) ([guide](https://hackmd.io/@MarkSackerberg/gumdrop)) - can be used to create a whitelisted candy machine sale.
+- [SPL-Airdrop](https://github.com/Lost-Cat-FC/spl-airdrop)
+  ![](https://img.shields.io/github/stars/Lost-Cat-FC/spl-airdrop.svg?style=social) - can be used to airdrop whitelist tokens to a list of addresses.
 
 ## 🥩 Staking
 - Can deposit multiple token mints (actually useful for NFTs):
