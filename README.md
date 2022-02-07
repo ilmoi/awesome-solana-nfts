@@ -94,6 +94,7 @@ If you see something missing - please submit a PR 🙏
   
 ## 🖼 NFT Galleries
 - [NftEyez](https://nfteyez.global/) - online NFT gallery.
+- [solwal.io](https://solwal.io/) - Search and explore wallet.
 
 ## 📅 Upcoming NFT Drops
 - [How Rare Drops](https://howrare.is/drops) - SOL specific drops. In my experience this has the widest coverage. No pics tho:(
