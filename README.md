@@ -174,6 +174,7 @@ If you see something missing - please submit a PR 🙏
 - [Metaplex Store Installer](https://github.com/blackranger07/Metaplex-Store-Installer) 
   ![](https://img.shields.io/github/stars/blackranger07/Metaplex-Store-Installer.svg?style=social) - community script to install metaplex store on a linux box.
 - [Metaplex Launch Cost Calculator](https://feecalc.live/) - enter your collection size to calculate the total fees you will incur to launch.
+- [Solana Address Generator](https://github.com/thislooksrare/solana-wallet-generator) - generate fancy looking solana addresses.
 
 ### for Candy Machine
 - [Candy Machine Mint](https://github.com/exiled-apes/candy-machine-mint) 
