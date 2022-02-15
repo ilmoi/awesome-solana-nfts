@@ -73,6 +73,8 @@ If you see something missing - please submit a PR 🙏
   ![](https://img.shields.io/github/stars/theskeletoncrew/air-support.svg?style=social) - set of scripts to airdrop NFTs to your following in 5 easy steps. 
 - [Ghetto SolAir](https://github.com/h4rkl/Ghetto-SolAir)
   ![](https://img.shields.io/github/stars/h4rkl/Ghetto-SolAir.svg?style=social) - a guerilla tactix command lined based airdrop tool for Solana with no polish and max functionality.
+- [Xin Dragons Airdroppper](https://github.com/Xin-Dragons/solana-toolkit)
+  ![](https://img.shields.io/github/stars/Xin-Dragons/solana-toolkit.svg?style=social) - Utility lib for taking Solana NFT snapshots and running token airdrops, checking token holders etc
 
 ## 🤝 NFT Escrows / Swaps
 - [Metaplex Auction House](https://github.com/metaplex-foundation/metaplex/tree/master/rust/auction-house) 
