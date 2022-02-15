@@ -123,6 +123,8 @@ If you see something missing - please submit a PR 🙏
 - [MoveMints by BridgeSplit](https://movemints.bridgesplit.com/) - tracks the latest Solana NFT drops and analyzes their community growth.
 - [Solens](https://solens.io/) - All-in-one analytics platform to follow Solana NFT trends, smart money activity and historical data (by marketplace). 
 - [SolsWatch](https://sols.watch/) - Data Insights and charts on Solana NFT collections from the secondary marketplaces. Discover new collections as soon as they are added to the marketplaces.
+- [NFT Collection's Mint Addresses](https://github.com/BL0CK-X/solana-nft-collection-mint-addresses) - an open source GitHub repository that maps a collection name to a list of mint addresses on Solana.
+- [Blockchain API](https://docs.blockchainapi.com/) - Mint NFTs, read NFTs, read/write candy machines, buy/list/delist on NFT marketplaces, and much more with the Blockchain API
 
 ### Rarity
 - [How Rare Is](https://howrare.is/) - rarity tools for NFTs on solana.
