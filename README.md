@@ -183,8 +183,6 @@ If you see something missing - please submit a PR 🙏
 ### for Candy Machine
 - [Candy Machine Mint](https://github.com/exiled-apes/candy-machine-mint) 
   ![](https://img.shields.io/github/stars/exiled-apes/candy-machine-mint.svg?style=social) - off the shelf front-ends for Candy Machine.
-- [Solana Candy Factory](https://github.com/kevinfaveri/solana-candy-factory) 
-  ![](https://img.shields.io/github/stars/kevinfaveri/solana-candy-factory.svg?style=social) - fork, customize, and deploy your own candy machine mint app to a custom domain, ultra fast.
 - [MintUI](https://github.com/InnerMindDAO/MintUI) 
   ![](https://img.shields.io/github/stars/InnerMindDAO/MintUI.svg?style=social) - extensible UI for creating Metaplex Candy Machines.
 - [Willy Wonka](https://github.com/crispheaney/willy-wonka)
