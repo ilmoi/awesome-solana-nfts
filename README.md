@@ -193,6 +193,7 @@ If you see something missing - please submit a PR 🙏
 - [Next.js Tailwind CSS Candy Machine V2](https://github.com/updatesettings/nextjs-candy-machine-v2) ![](https://img.shields.io/github/stars/updatesettings/nextjs-candy-machine-v2?style=social) - Next.js, Whitelist signup to Notion, Tailwind CSS, NFT Collection Viewer, and more.
 - [List all Candy Machines in existence](https://gist.github.com/levicook/aadb079bf9daa1eeda3ff603c73b1b79)
 - [Complete Video Tutorial](https://www.youtube.com/watch?v=KJOWBc0V4sE) - Full Candy Machine V2 Video tutorial detailing all steps of the project (Assets generation, Pre-sale, Mint, REVEAL, ...).
+- [Config generator](https://github.com/vdusart/candymachinev2-config-generator) - Easy tool to automatically generate the configuration of a candymachineV2 by answering some questions.
 
 ### for Arweave
 - [Arweave NFT Uploader](https://github.com/0xEnrico/arweave-nft-uploader) ![](https://img.shields.io/github/stars/0xEnrico/arweave-nft-uploader.svg?style=social)
