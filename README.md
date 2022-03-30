@@ -40,7 +40,13 @@ If you see something missing - please submit a PR 🙏
 - [Metaplex Candy Machine](https://github.com/metaplex-foundation/metaplex-program-library/tree/master/candy-machine/program)
   ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social)
   ([docs](https://docs.metaplex.com/candy-machine-v2/introduction)) - simple program (to use, not to build!) that issues a fixed number of NFTs at a fixed price, first come first serve. If Metaplex itself has too many knobs for you to think about, consider the Candy Machine instead.
-- A number of "managed" launch services exist: [Nova Launch](https://novalaunch.art/), [CrayonCreed](https://crayoncreed.com/). We've not tried and are not promoting either:)
+- Managed launchpad services - we've not tried and are not promoting either:)
+  - [Coinfra](https://www.coinfra.io/)
+  - [Nova Launch](https://novalaunch.art/)
+  - [CrayonCreed](https://crayoncreed.com/)
+  - [MonkeLabs](https://monkelabs.io/)
+  - [launchlabs](https://launchlabs.app/)
+  - [MOONGATE](https://moongate.space/)
 
 ## 🏦 Vaults
 
