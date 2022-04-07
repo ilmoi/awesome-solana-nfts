@@ -37,6 +37,7 @@ If you see something missing - please submit a PR 🙏
   ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social)
   ([docs](https://docs.metaplex.com/storefront/introduction)) - self-serve front-end for Metaplex
 - [Holaplex](https://www.holaplex.com/) - managed storefront for Metaplex, setup in 5 minutes
+- [Candy Shop](https://candy.liqnft.com) - Javascript library that allows projects to host their own escrowless, on-chain marketplace with few lines of code. Built on Metaplex auction house program
 - [Metaplex Candy Machine](https://github.com/metaplex-foundation/metaplex-program-library/tree/master/candy-machine/program)
   ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social)
   ([docs](https://docs.metaplex.com/candy-machine-v2/introduction)) - simple program (to use, not to build!) that issues a fixed number of NFTs at a fixed price, first come first serve. If Metaplex itself has too many knobs for you to think about, consider the Candy Machine instead.
@@ -217,6 +218,7 @@ If you see something missing - please submit a PR 🙏
 - [CSV-to-JSON for Candy Machine](https://github.com/thuglabs/csv-to-json-for-candy-machine)
   ![](https://img.shields.io/github/stars/thuglabs/csv-to-json-for-candy-machine.svg?style=social) - quickly turn a CSV file into a bunch of JSONs that the Candy Machine expects.
 - [Candy Machine V2 Responsive UI](https://github.com/Fulgurus/candy-machine-v2-responsive-ui) ![](https://img.shields.io/github/stars/Fulgurus/candy-machine-v2-responsive-ui.svg?style=social) - responsive, customizable prod-ready UI for Candy Machine V2.
+- [Candy Machine V2 + NFT Marketplace](github.com/LIQNFT/candy-machine-v2-with-marketplace) - Candy Machine V2 for primary sale + NFT marketplace powered by Candy Shop for secondary trading
 - [Next.js Tailwind CSS Candy Machine V2](https://github.com/updatesettings/nextjs-candy-machine-v2) ![](https://img.shields.io/github/stars/updatesettings/nextjs-candy-machine-v2?style=social) - Next.js, Whitelist signup to Notion, Tailwind CSS, NFT Collection Viewer, and more.
 - [List all Candy Machines in existence](https://gist.github.com/levicook/aadb079bf9daa1eeda3ff603c73b1b79)
 - [Complete Video Tutorial](https://www.youtube.com/watch?v=KJOWBc0V4sE) - Full Candy Machine V2 Video tutorial detailing all steps of the project (Assets generation, Pre-sale, Mint, REVEAL, ...).
