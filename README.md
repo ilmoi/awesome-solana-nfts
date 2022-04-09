@@ -271,6 +271,7 @@ If you see something missing - please submit a PR 🙏
 - [Figment](https://figment.io/datahub/solana/)
 - [Blockdaemon](https://blockdaemon.com/marketplace/solana/)
 - [Syndica](https://syndica.io/)
+- [NOWNodes](https://nownodes.io)
 
 ## 🔗 Related Awesome Lists
 
