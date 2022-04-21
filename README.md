@@ -206,6 +206,7 @@ If you see something missing - please submit a PR 🙏
   ![](https://img.shields.io/github/stars/blackranger07/Metaplex-Store-Installer.svg?style=social) - community script to install metaplex store on a linux box.
 - [Metaplex Launch Cost Calculator](https://feecalc.live/) - enter your collection size to calculate the total fees you will incur to launch.
 - [Solana Address Generator](https://github.com/thislooksrare/solana-wallet-generator) - generate fancy looking solana addresses.
+- [NFT Minting API](https://docs.crossmint.io/mint-nfts/nft-minting-api) - in one single REST https request you can create and deliver an NFT to a user.
 
 ### for Candy Machine
 
@@ -223,6 +224,7 @@ If you see something missing - please submit a PR 🙏
 - [List all Candy Machines in existence](https://gist.github.com/levicook/aadb079bf9daa1eeda3ff603c73b1b79)
 - [Complete Video Tutorial](https://www.youtube.com/watch?v=KJOWBc0V4sE) - Full Candy Machine V2 Video tutorial detailing all steps of the project (Assets generation, Pre-sale, Mint, REVEAL, ...).
 - [Config generator](https://github.com/vdusart/candymachinev2-config-generator) - Easy tool to automatically generate the configuration of a candymachineV2 by answering some questions.
+- [Crossmint](https://docs.crossmint.io/accept-credit-cards/integration-guides/solana-candy-machine) - Enables minting NFTs with a credit card, for free.
 
 ### for Arweave
 
