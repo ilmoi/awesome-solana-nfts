@@ -126,6 +126,7 @@ If you see something missing - please submit a PR 🙏
 - [Upcoming NFT](https://upcomingnft.art/) - multi-chain drop info, includes Solana
 - [CoinMarketCap](https://coinmarketcap.com/nft/upcoming/) - multi-chain drop info, includes Solana
 - [NFT Drop Scanner](https://nftdropscanner.com) - multi-chain drop info, includes Solana
+- [Solana NFT Radar](https://discord.gg/nftradar) - daily NFT drop info, Solana specific
 
 ## 📊 NFT Data
 
