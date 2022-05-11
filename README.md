@@ -143,6 +143,7 @@ If you see something missing - please submit a PR 🙏
 - [SolsWatch](https://sols.watch/) - Data Insights and charts on Solana NFT collections from the secondary marketplaces. Discover new collections as soon as they are added to the marketplaces.
 - [NFT Collection's Mint Addresses](https://github.com/BL0CK-X/solana-nft-collection-mint-addresses) - an open source GitHub repository that maps a collection name to a list of mint addresses on Solana.
 - [Blockchain API](https://docs.blockchainapi.com/) - Mint NFTs, read NFTs, read/write candy machines, buy/list/delist on NFT marketplaces, and much more with the Blockchain API
+- [MrBot](https://mrbot.tech/) - Real time data for all collections (floor price, last sold, volume, listed), mintbot, sniper, famousfoxes tokens metrics.
 
 ### Rarity
 
