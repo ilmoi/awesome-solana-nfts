@@ -86,6 +86,8 @@ If you see something missing - please submit a PR 🙏
   ![](https://img.shields.io/github/stars/h4rkl/Ghetto-SolAir.svg?style=social) - a guerilla tactix command lined based airdrop tool for Solana with no polish and max functionality.
 - [Xin Dragons Airdroppper](https://github.com/Xin-Dragons/solana-toolkit)
   ![](https://img.shields.io/github/stars/Xin-Dragons/solana-toolkit.svg?style=social) - Utility lib for taking Solana NFT snapshots and running token airdrops, checking token holders etc
+- [SPL Tools]([https://github.com/Lost-Cat-FC/spl-airdrop](https://github.com/triiq/spl-tools))
+  ![](https://img.shields.io/github/stars/triiq/spl-tools.svg?style=social) - Set of scripts to help you airdrop fungible & non fungible spl tokens, as well as retrieve data on the holders of those tokens.
 
 ## 🤝 NFT Escrows / Swaps
 
