@@ -175,6 +175,8 @@ If you see something missing - please submit a PR 🙏
   ![](https://img.shields.io/github/stars/flutternft/solana-nft-sales-tracker.svg?style=social) - tracks marketplace sales by observing payments flowing back to creators. Marketplace agnostic.
 - [SMB Marketplace History](https://github.com/boxwooddev/smb-marketplace-history)
   ![](https://img.shields.io/github/stars/boxwooddev/smb-marketplace-history.svg?style=social) - sales bot for SMBs in particular, built by the legend @statikdev.
+- [Solana NFT Sales Monitor](https://github.com/t4top/solana-nft-sales-monitor)
+  ![](https://img.shields.io/github/stars/t4top/solana-nft-sales-monitor.svg?style=social) - monitors NFT collections sales and posts them to Discord.
 
 ## 🙏 Community-built Tools
 
