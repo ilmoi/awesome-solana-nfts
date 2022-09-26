@@ -277,6 +277,7 @@ If you see something missing - please submit a PR 🙏
 - [Blockdaemon](https://blockdaemon.com/marketplace/solana/)
 - [Syndica](https://syndica.io/)
 - [NOWNodes](https://nownodes.io)
+- [Node Monkey](https://marketplace.nodemonkey.io/)
 
 ## 🔗 Related Awesome Lists
 
