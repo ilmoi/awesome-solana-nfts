@@ -112,6 +112,8 @@ If you see something missing - please submit a PR 🙏
 - [NftEyez](https://nfteyez.global/) - online NFT gallery.
 - [solwal.io](https://solwal.io/) - Search and explore wallet.
 - [Nftbucket](https://nftbucket.com/) - Create your own NFT gallery.
+- [civic.me](https://civic.me/) - NFT gallery with support for multiple wallets and customization.
+
 
 ## 📅 Upcoming NFT Drops
 
@@ -165,6 +167,7 @@ If you see something missing - please submit a PR 🙏
 ## 🛡️ NFT Verification / Security
 
 - [Solguard](https://www.solguard.io/) - enter the NFT mint to find out if it's part of a real collection or fake.
+- [Civic Pass](https://getpass.civic.com) - Civic Pass is an easy way to verify your identity on dApps while protecting your privacy
 
 ## 🤖 NFT Marketplace Bots
 
@@ -277,6 +280,10 @@ If you see something missing - please submit a PR 🙏
 - [Blockdaemon](https://blockdaemon.com/marketplace/solana/)
 - [Syndica](https://syndica.io/)
 - [NOWNodes](https://nownodes.io)
+
+## 🪪 Identity
+- [did-sol](https://github.com/identity-com/sol-did) The SOL DID method is a method for storing DIDs and managing DID documents on Solana.
+- [on-chain-identity-gateway](https://github.com/identity-com/on-chain-identity-gateway/tree/develop/solana) - This repository contains libraries that help a smart contract or program on the Blockchain with regulations and guidances from FATF, US OFAC, US OCC BSA and others.
 
 ## 🔗 Related Awesome Lists
 
