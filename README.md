@@ -112,6 +112,7 @@ If you see something missing - please submit a PR 🙏
 - [NftEyez](https://nfteyez.global/) - online NFT gallery.
 - [solwal.io](https://solwal.io/) - Search and explore wallet.
 - [Nftbucket](https://nftbucket.com/) - Create your own NFT gallery.
+- [Gallie](https://gallie.io/) - Curate your NFT collection to share with the world.
 
 ## 📅 Upcoming NFT Drops
 
