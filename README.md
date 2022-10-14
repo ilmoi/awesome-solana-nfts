@@ -113,7 +113,7 @@ If you see something missing - please submit a PR 🙏
 - [solwal.io](https://solwal.io/) - Search and explore wallet.
 - [Nftbucket](https://nftbucket.com/) - Create your own NFT gallery.
 - [civic.me](https://civic.me/) - NFT gallery with support for multiple wallets and customization.
-
+- [Gallie](https://gallie.io/) - Curate your NFT collection to share with the world.
 
 ## 📅 Upcoming NFT Drops
 
@@ -227,7 +227,7 @@ If you see something missing - please submit a PR 🙏
 - [Candy Machine V2 + NFT Marketplace](github.com/LIQNFT/candy-machine-v2-with-marketplace) - Candy Machine V2 for primary sale + NFT marketplace powered by Candy Shop for secondary trading
 - [Next.js Tailwind CSS Candy Machine V2](https://github.com/updatesettings/nextjs-candy-machine-v2) ![](https://img.shields.io/github/stars/updatesettings/nextjs-candy-machine-v2?style=social) - Next.js, Whitelist signup to Notion, Tailwind CSS, NFT Collection Viewer, and more.
 - [List all Candy Machines in existence](https://gist.github.com/levicook/aadb079bf9daa1eeda3ff603c73b1b79)
-- [Complete Video Tutorial](https://www.youtube.com/watch?v=KJOWBc0V4sE) - Full Candy Machine V2 Video tutorial detailing all steps of the project (Assets generation, Pre-sale, Mint, REVEAL, ...).
+- [Complete Video Tutorial](https://www.youtube.com/watch?v=9dAnpo0OiAg) - Full Candy Machine V2 Video (Sugar update) tutorial detailing all steps of the project (Assets generation, Pre-sale, Mint, REVEAL, ...).
 - [Config generator](https://github.com/vdusart/candymachinev2-config-generator) - Easy tool to automatically generate the configuration of a candymachineV2 by answering some questions.
 - [Crossmint](https://docs.crossmint.io/accept-credit-cards/integration-guides/solana-candy-machine) - Enables minting NFTs with a credit card, an NFT minting API, and paying for Solana NFTs using ETH+MetaMask.
 
@@ -279,6 +279,7 @@ If you see something missing - please submit a PR 🙏
 - [Blockdaemon](https://blockdaemon.com/marketplace/solana/)
 - [Syndica](https://syndica.io/)
 - [NOWNodes](https://nownodes.io)
+- [Node Monkey](https://marketplace.nodemonkey.io/)
 
 ## 🔗 Related Awesome Lists
 
