@@ -99,13 +99,15 @@ If you see something missing - please submit a PR 🙏
 
 ## 💸 NFT Marketplaces
 
-- [MagicEden](https://magiceden.io/)
-- [SolanArt](https://solanart.io/)
-- [DigitalEyes](https://digitaleyes.market/)
-- [Alpha Art](https://alpha.art/)
-- [Exchange.Art](https://exchange.art/)
-- [Solsea](https://solsea.io/)
-- [FTX NFT Marketplace](https://ftx.com/en/nfts)
+- [Tensor](https://tensor.trade/) - AMM/Aggregator
+- [HadeSwap](https://hadeswap.com/) - AMM
+- [Elixir](https://elixirnft.io) - AMM
+- [GoatSwap](https://goatswap.xyz/) - AMM
+- [MagicEden](https://magiceden.io/) - Normal marketplace
+- [OpenSea](https://opensea.io/solana-collections) - Normal marketplace
+- [SolanArt](https://solanart.io/) - Normal marketplace
+- [Exchange.Art](https://exchange.art/) - 1/1 art marketplace
+- [FormFunction](https://formfunction.xyz/) - 1/1 art marketplace
 
 ## 🖼 NFT Galleries
 
