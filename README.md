@@ -120,6 +120,7 @@ If you see something missing - please submit a PR 🙏
 ## 📅 Upcoming NFT Drops
 
 - [How Rare Drops](https://howrare.is/drops) - SOL specific drops. In my experience this has the widest coverage. No pics tho:(
+- [Moonly - Upcoming NFT Drops](https://moon.ly/solana) - Up to date Solana upcoming drops, tools, and much more
 - [Solanalysis Upcoming Drops](https://solanalysis.com/upcoming) - SOL specific drops.
 - [Next Drop](https://nextdrop.is/upcoming?chain=solana) - multi-chain drop info, includes Solana (filterable)
 - [Non Fungi](https://www.non-fungi.com/solana-nft-drops/) - multi-chain drop info, includes Solana (filterable)
@@ -137,6 +138,7 @@ If you see something missing - please submit a PR 🙏
 ### General
 
 - [NFT🍌APE](https://nftape.me/)([github code](https://github.com/ilmoi/nftape.me) ![](https://img.shields.io/github/stars/ilmoi/nftape.me.svg?style=social)) - 1-click tool to calculate your P&L / paperhands / diamondhands amounts
+- [Moonly - Market Data,Real-time NFT Events](https://moon.ly/monitor) - Solana Market Stats, FP, Trends, Marketcap
 - [Solanafloor](https://solanafloor.com/) - floor insights for NFTs on Solana.
 - [Solanalysis](https://solanalysis.com/) - track market cap and trading activity for Solana-based NFTs.
 - [NFT FloorPrice](https://nftfloorprice.vercel.app/) - another app to track floor prices (shows by Marketplace).
