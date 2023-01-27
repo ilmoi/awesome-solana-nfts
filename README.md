@@ -285,6 +285,7 @@ If you see something missing - please submit a PR 🙏
 - [Syndica](https://syndica.io/)
 - [NOWNodes](https://nownodes.io)
 - [Node Monkey](https://marketplace.nodemonkey.io/)
+- [GetBlock](https://getblock.io/nodes/sol/)
 
 ## 🔗 Related Awesome Lists
 
