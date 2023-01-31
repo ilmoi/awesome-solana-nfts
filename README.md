@@ -277,6 +277,7 @@ If you see something missing - please submit a PR 🙏
 ## ⚙️ RPC Providers
 
 - [GenesysGo](https://genesysgo.com/)
+- [GetBlock](https://getblock.io/)
 - [QuickNode](https://quicknode.com/)
 - [RunNode](https://runnode.com/)
 - [Triton One | RPC Pool](https://triton.one/#/)
