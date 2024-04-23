@@ -247,7 +247,7 @@ If you see something missing - please submit a PR 🙏
 
 - [Solana Tools](https://www.solana-tools.com/) - find PDAs, ATAs, and read NFT/token metadata from a mint address.
 - [Sol NFT Tools](https://sol-nft.tools/) - get mints created by a creator, get metadata from a mint, get holders of a bunch of mints, upload files to arweave.
-- [Skunka Tools](https://www.skunka-tools.xyz/) - SPL Token generator and manager, delete token accounts, burn tokens and more features to come.
+- [Eonify](https://eonify.space) - SPL Token generator and manager, delete token accounts, burn tokens and more features to come.
 
 ### Dapp Boilerplates
 
