@@ -10,6 +10,7 @@ A curated list of resources for builders / artists hacking NFTs on Solana.
 
 If you see something missing - please submit a PR 🙏
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Solana NFT workflow orchestration, automated blockchain development management, and multi-agent coordination. MIT licensed.
 ## 📜 NFT Open Standards
 
 - [Metaplex Token Metadata Standard](https://github.com/metaplex-foundation/metaplex-program-library/tree/master/token-metadata)
