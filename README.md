@@ -10,6 +10,8 @@ A curated list of resources for builders / artists hacking NFTs on Solana.
 
 If you see something missing - please submit a PR 🙏
 
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain rewards vintage hardware for mining
+
 ## 📜 NFT Open Standards
 
 - [Metaplex Token Metadata Standard](https://github.com/metaplex-foundation/metaplex-program-library/tree/master/token-metadata)
