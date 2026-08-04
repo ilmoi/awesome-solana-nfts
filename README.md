@@ -286,6 +286,7 @@ If you see something missing - please submit a PR 🙏
 - [Syndica](https://syndica.io/)
 - [NOWNodes](https://nownodes.io)
 - [Node Monkey](https://marketplace.nodemonkey.io/)
+- [OpenChainBench](https://openchainbench.com) — Independent benchmarks for NFT metadata APIs and Solana RPC endpoints. Open-source, CC BY 4.0 data.
 
 ## 🔗 Related Awesome Lists
 
