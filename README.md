@@ -208,6 +208,7 @@ If you see something missing - please submit a PR 🙏
 - [MetaplexMetadata-js](https://github.com/vicyyn/MetaplexMetadata-js)
   ![](https://img.shields.io/github/stars/vicyyn/MetaplexMetadata-js.svg?style=social) - scrape metadata for the provided mint.
 - [Solana mint List](https://github.com/statikdev/sol-mint-list)
+- [n8n Solana Mint/Program Monitor](https://github.com/DeusAcc/n8n-solana-mint-monitor) - free n8n workflow, Telegram alert when a new transaction shows up for an SPL mint or program ID, no external DB
   ![](https://img.shields.io/github/stars/statikdev/sol-mint-list.svg?style=social) - provide mint wallet address > scrape metadata & arweave data for each NFT in a given collection.
 - [Abstractica](https://tools.abstratica.art/) - provide mint wallet address > get addresses of current holders of a given collection.
 - [getHolderSnapshot](https://github.com/halaprix/getHolderSnapshot)
