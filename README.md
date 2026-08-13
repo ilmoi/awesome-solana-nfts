@@ -186,6 +186,7 @@ If you see something missing - please submit a PR 🙏
   ![](https://img.shields.io/github/stars/t4top/solana-nft-sales-monitor.svg?style=social) - monitors NFT collections sales and posts them to Discord.
 
 ## 🙏 Community-built Tools
+- [Solana Token Price Alert (n8n)](https://github.com/DeusAcc/n8n-solana-price-alert) - Free n8n workflow: alerts on Telegram when an SPL token price crosses a threshold, via public Jupiter API.
 
 ### for Metaplex (CLIs)
 
