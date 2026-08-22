@@ -292,3 +292,4 @@ If you see something missing - please submit a PR 🙏
 - [Awsome Solana](https://github.com/paul-schaaf/awesome-solana) ![](https://img.shields.io/github/stars/paul-schaaf/awesome-solana.svg?style=social)
 - [Awesome Serum](https://github.com/project-serum/awesome-serum) ![](https://img.shields.io/github/stars/project-serum/awesome-serum.svg?style=social)
 - [Awesome Solana Gaming](https://github.com/murlokito/awesome-solana-gaming) ![](https://img.shields.io/github/stars/murlokito/awesome-solana-gaming.svg?style=social)
+- [SolSniper](https://github.com/ezequiellich44-cmd/SolSniper) - AI-powered Solana trading bot with real ML rug detection (94% accuracy, token scoring 0.0-1.0), 0% fees, auto trading, Jito bundles. Self-hosted, open source.
