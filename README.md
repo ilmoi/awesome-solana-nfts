@@ -272,6 +272,8 @@ If you see something missing - please submit a PR 🙏
 - [Candy Maker](https://github.com/kevinrodriguez-io/candy-maker/)
   ![](https://img.shields.io/github/stars/kevinrodriguez-io/candy-maker.svg?style=social) - ts cli for generative art.
 - [TIEXO](https://github.com/TiexoHQ/toolbox)
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner for Solana and EVM tokens: A+–F grades from on-chain checks, keyless REST API, hosted MCP server.
+
   ![](https://img.shields.io/github/stars/TiexoHQ/toolbox.svg?style=social) - generative NFT art toolbox from the creators of Moonlet.
 
 ## ⚙️ RPC Providers
