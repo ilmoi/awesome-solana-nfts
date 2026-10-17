@@ -197,6 +197,8 @@ If you see something missing - please submit a PR 🙏
   ![](https://img.shields.io/github/stars/metaplex-foundation/python-api.svg?style=social) - python bindings for Metaplex.
 - [Metaplex Rust CLI](https://github.com/CalebEverett/metaplex-cli)
   ![](https://img.shields.io/github/stars/CalebEverett/metaplex-cli.svg?style=social) - another rust CLI for metaplex, similar ot Metaboss.
+- [AlbuSOL](https://github.com/AlbuStudio/albusol)
+  ![](https://img.shields.io/github/stars/AlbuStudio/albusol.svg?style=social) - interactive terminal tool that creates Metaplex Core collections, mints single assets and batch-mints a folder (resumable, optional IPFS upload via Pinata), plus SPL token and Raydium liquidity steps, with an encrypted local wallet.
 
 ### for Metaplex (other)
 
